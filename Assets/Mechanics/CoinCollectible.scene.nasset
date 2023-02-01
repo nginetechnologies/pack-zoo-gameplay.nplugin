@@ -1,0 +1,76 @@
+{
+    "guid": "762aa592-48c5-401c-a1a3-997e85e9f1a0",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6a4408bb-7899-4099-bda8-be1c202a9195",
+    "dependencies": [
+        "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Coin Collectible"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "instanceGuid": "48d5c643-72e4-4808-a682-2f18abac5245",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                "scoreReward": 0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Collectible Component"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "ead289a0-2916-4b24-9bda-8ac95d0c94c3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Coin"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+                    }
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "90f2dc8f-6bf2-407e-a04c-19a1c86280bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "762aa592-48c5-401c-a1a3-997e85e9f1a0"
+    }
+}

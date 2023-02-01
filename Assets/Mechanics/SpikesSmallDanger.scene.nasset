@@ -1,0 +1,74 @@
+{
+    "guid": "2d5ae1ec-b523-45d5-9806-2e756b2c6695",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7547e67b-672e-4c1c-9018-b74f97ad5698",
+    "dependencies": [
+        "c25b0633-1132-cc72-7a35-c23d61768059"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Spikes Danger"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "instanceGuid": "2d2dc854-e5f8-417c-81e7-7988b5fadbae",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Restart Game Area",
+                    "flags": 2
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "8505858a-ca23-4189-a4e3-86b1e9cf5dcc",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Spikes"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "c25b0633-1132-cc72-7a35-c23d61768059"
+                    }
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "874642b1-8b3f-474a-ae42-12ac2d97e570",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spikes"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c25b0633-1132-cc72-7a35-c23d61768059"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2d5ae1ec-b523-45d5-9806-2e756b2c6695"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "guid": "72780307-6b0a-0a89-931f-c80af14cb922",
+    "source": "../Round_Table.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "ee745a61-4f63-29a5-c6b8-43458fc5c91b",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Round Table"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fcd6df41-b961-a95b-370a-2691e527501c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Round Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b465b4be-3648-f0a7-704c-fb88ce11f619"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "72780307-6b0a-0a89-931f-c80af14cb922"
+    }
+}

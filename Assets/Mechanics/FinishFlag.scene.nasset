@@ -1,0 +1,76 @@
+{
+    "guid": "9684f23e-c22b-36da-db4e-9cd80cfcfeab",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b0c2ddae-c9d3-e123-ce88-359479eab8d4",
+    "dependencies": [
+        "947e10b1-4fe7-18a6-10ae-06eb8340b784"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Finish Flag"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "instanceGuid": "1bc884bd-5816-c162-1966-7215aff6cc1f",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                "scoreReward": 0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Collectible Component"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "dab6dc4f-72dc-4f2e-a20b-49be4c24edc3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Flag"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "947e10b1-4fe7-18a6-10ae-06eb8340b784"
+                    }
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bdaf1d68-803d-4cc3-84f7-d0293ab96c77",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flag"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "947e10b1-4fe7-18a6-10ae-06eb8340b784"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9684f23e-c22b-36da-db4e-9cd80cfcfeab"
+    }
+}

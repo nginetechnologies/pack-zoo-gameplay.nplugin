@@ -1,0 +1,61 @@
+{
+    "guid": "e999c213-26d7-4752-9e3f-6572a9b572f4",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2a8b26ef-445b-4650-a35a-58ce6c0f9328",
+    "dependencies": [
+        "5d33e6cc-a226-f57d-214d-82770d647b4d"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Spikes Danger"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "bb15f0a1-1644-44b2-9f6c-4c09ec7c7370",
+            "instanceGuid": "b2a90fe5-5830-47dd-96dc-9133d6e17205",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Restart Game Area",
+                    "flags": 2
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "ffee8687-9524-4630-b9bc-4feb0885165f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Spikes"
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "5d33e6cc-a226-f57d-214d-82770d647b4d"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "e999c213-26d7-4752-9e3f-6572a9b572f4"
+    }
+}
