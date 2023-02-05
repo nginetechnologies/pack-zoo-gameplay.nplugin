@@ -14,7 +14,7 @@
     ],
     "children": [
         {
-            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "typeGuid": "683e117b-9758-4ba8-85d3-75114f58589e",
             "instanceGuid": "1bc884bd-5816-c162-1966-7215aff6cc1f",
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
@@ -24,13 +24,10 @@
                     "d6a09c51-8ccf-416e-8154-66f9404d2a44"
                 ]
             },
-            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
-                "scoreReward": 0
-            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "New Collectible Component"
+                    "name": "Finish Game Rules Sensor"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -52,22 +49,28 @@
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                         "scene": "947e10b1-4fe7-18a6-10ae-06eb8340b784"
-                    }
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "3b40b261-1b16-4ed5-b370-ab9f0757ecc9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Flag Physics Body"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "30f326c2-76c5-bb42-a6a1-5a0a5b14334f"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "disabled": true
+                            }
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "bdaf1d68-803d-4cc3-84f7-d0293ab96c77",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Flag"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "947e10b1-4fe7-18a6-10ae-06eb8340b784"
-            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {

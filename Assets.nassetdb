@@ -17,6 +17,17 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "063c581e-eecf-7a1e-58e1-b3aa2ce6047b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Round_Table.scene.nasset/Round Table.mesh.nasset/Round Table Sky 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b84b332a-ef41-aa0e-f83a-6badec9d1635"
+        ]
+    },
     "08dfe929-68f1-a6f6-e65f-3ffacad47177": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Green 700.mtli.nasset",
@@ -101,6 +112,17 @@
         "path": "Assets/Source/Material Instances/Yellow 500.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "254e8b35-bfcb-94bc-5531-48fe391c4cdc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Round_Table.scene.nasset/Round Table.mesh.nasset/Round Table Sky 900.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "29223527-c34f-d523-69ff-5c22616a178a"
         ]
     },
     "28fa271c-9d4b-63e5-c29b-29c7847b6d4a": {
@@ -343,6 +365,11 @@
             "782cdd25-4ac2-14be-93b9-a802ea73dce7"
         ]
     },
+    "72780307-6b0a-0a89-931f-c80af14cb922": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Round_Table.scene.nasset/Round_Table.scene.nasset"
+    },
     "762aa592-48c5-401c-a1a3-997e85e9f1a0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -462,6 +489,33 @@
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "c3af96ae-2976-0783-8f54-1c1a17c2d997"
+        ]
+    },
+    "b0b138e8-4a6c-022c-62d1-066123c35976": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Round_Table.scene.nasset/Round Table.mesh.nasset/Round Table Sky 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "65c9c66a-eb58-1104-074b-5d5674f830fe"
+        ]
+    },
+    "b465b4be-3648-f0a7-704c-fb88ce11f619": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Round_Table.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b0b138e8-4a6c-022c-62d1-066123c35976",
+            "65c9c66a-eb58-1104-074b-5d5674f830fe",
+            "254e8b35-bfcb-94bc-5531-48fe391c4cdc",
+            "29223527-c34f-d523-69ff-5c22616a178a",
+            "063c581e-eecf-7a1e-58e1-b3aa2ce6047b",
+            "b84b332a-ef41-aa0e-f83a-6badec9d1635"
         ]
     },
     "b79422fd-7233-dc08-4236-66dcb789d70f": {

@@ -50,7 +50,26 @@
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                         "scene": "5d33e6cc-a226-f57d-214d-82770d647b4d"
-                    }
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "c1d7f958-66d9-473f-8cf7-5ea1d06ea1f6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Spikes Quad Physics Body"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "aab1b35e-2190-c44c-7858-a08db73a2f50"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "disabled": true
+                            }
+                        }
+                    ]
                 }
             ]
         }

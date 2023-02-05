@@ -50,22 +50,28 @@
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                         "scene": "4b1dbd50-58f5-4a67-2cff-9bf7c57c0f18"
-                    }
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "3e1dcca1-db88-4430-bd5f-0c0f0b53a6ba",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Spikes Large Physics Body"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "ae13e45e-426c-e619-6ff7-a71d66a2d238"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "disabled": true
+                            }
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "36fe69dc-210e-45d6-9abe-286759bb9d1d",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Spikes"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "4b1dbd50-58f5-4a67-2cff-9bf7c57c0f18"
-            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {

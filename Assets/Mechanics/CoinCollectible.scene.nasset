@@ -10,6 +10,14 @@
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
             "name": "Coin Collectible"
+        },
+        {
+            "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+            "rotation": [
+                180.0,
+                0.0,
+                0.0
+            ]
         }
     ],
     "children": [
@@ -52,13 +60,32 @@
                     ],
                     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                         "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
-                    }
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                            "instanceGuid": "e6e6ea2f-36e6-43b1-97f9-f175cbe8eca1",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Coin Physics Body"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "d9ff43dc-e97f-e401-9979-af18a0373edd"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "disabled": true
+                            }
+                        }
+                    ]
                 }
             ]
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "90f2dc8f-6bf2-407e-a04c-19a1c86280bb",
+            "instanceGuid": "ce6bc7da-63f7-476e-a014-0ec4184bf526",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
