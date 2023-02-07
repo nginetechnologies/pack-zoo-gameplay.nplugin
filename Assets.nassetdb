@@ -85,6 +85,9 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesLargeDanger.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
         "dependencies": [
             "4b1dbd50-58f5-4a67-2cff-9bf7c57c0f18"
         ]
@@ -150,6 +153,9 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesSmallDanger.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
         "dependencies": [
             "c25b0633-1132-cc72-7a35-c23d61768059"
         ]
@@ -374,6 +380,9 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/CoinCollectible.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
         "dependencies": [
             "f6a49598-13c0-32a7-ac2e-71bad80ed913"
         ]
@@ -454,6 +463,9 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/FinishFlag.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
         "dependencies": [
             "947e10b1-4fe7-18a6-10ae-06eb8340b784"
         ]
@@ -609,6 +621,9 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesDanger.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
         "dependencies": [
             "5d33e6cc-a226-f57d-214d-82770d647b4d"
         ]
