@@ -25,7 +25,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "b84b332a-ef41-aa0e-f83a-6badec9d1635"
+            "b84b332a-ef41-aa0e-f83a-6badec9d1635",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "08dfe929-68f1-a6f6-e65f-3ffacad47177": {
@@ -125,7 +126,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "29223527-c34f-d523-69ff-5c22616a178a"
+            "29223527-c34f-d523-69ff-5c22616a178a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "28fa271c-9d4b-63e5-c29b-29c7847b6d4a": {
@@ -288,7 +290,8 @@
     },
     "56b2b610-52e0-4fba-b80d-9b7689865d88": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Basic Gameplay Assets"
     },
     "5742eefe-1134-cefd-71ea-6b0fa60b0bc7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -374,7 +377,10 @@
     "72780307-6b0a-0a89-931f-c80af14cb922": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/Round_Table.scene.nasset/Round_Table.scene.nasset"
+        "path": "Assets/Source/Round_Table.scene.nasset/Round_Table.scene.nasset",
+        "dependencies": [
+            "b465b4be-3648-f0a7-704c-fb88ce11f619"
+        ]
     },
     "762aa592-48c5-401c-a1a3-997e85e9f1a0": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -511,7 +517,8 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "65c9c66a-eb58-1104-074b-5d5674f830fe"
+            "65c9c66a-eb58-1104-074b-5d5674f830fe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "b465b4be-3648-f0a7-704c-fb88ce11f619": {
@@ -522,12 +529,13 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
         "dependencies": [
-            "b0b138e8-4a6c-022c-62d1-066123c35976",
             "65c9c66a-eb58-1104-074b-5d5674f830fe",
-            "254e8b35-bfcb-94bc-5531-48fe391c4cdc",
+            "b0b138e8-4a6c-022c-62d1-066123c35976",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7",
             "29223527-c34f-d523-69ff-5c22616a178a",
-            "063c581e-eecf-7a1e-58e1-b3aa2ce6047b",
-            "b84b332a-ef41-aa0e-f83a-6badec9d1635"
+            "254e8b35-bfcb-94bc-5531-48fe391c4cdc",
+            "b84b332a-ef41-aa0e-f83a-6badec9d1635",
+            "063c581e-eecf-7a1e-58e1-b3aa2ce6047b"
         ]
     },
     "b79422fd-7233-dc08-4236-66dcb789d70f": {
