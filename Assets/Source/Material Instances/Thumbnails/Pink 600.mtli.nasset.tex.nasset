@@ -1,10 +1,9 @@
 {
     "guid": "c557ab73-2688-61c8-780f-5654551a2143",
-    "source": "Source/Pink 600.mtli.nasset.dds",
+    "source": "Source/Pink_600_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

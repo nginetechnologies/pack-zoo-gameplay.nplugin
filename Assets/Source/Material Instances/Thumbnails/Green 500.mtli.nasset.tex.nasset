@@ -1,10 +1,9 @@
 {
     "guid": "abdbd4c0-d25a-4825-6314-890b29e17dac",
-    "source": "Source/Green 500.mtli.nasset.dds",
+    "source": "Source/Green_500_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

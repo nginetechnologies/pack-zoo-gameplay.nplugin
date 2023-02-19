@@ -1,10 +1,9 @@
 {
     "guid": "ade1cc12-6aee-3df9-169b-7e82fbbf1e95",
-    "source": "Source/Purple 600.mtli.nasset.dds",
+    "source": "Source/Purple_600_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

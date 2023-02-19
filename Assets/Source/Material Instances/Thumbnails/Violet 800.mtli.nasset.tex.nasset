@@ -1,10 +1,9 @@
 {
     "guid": "6ce2f198-fed8-e866-80d2-bf85e0ae6234",
-    "source": "Source/Violet 800.mtli.nasset.dds",
+    "source": "Source/Violet_800_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

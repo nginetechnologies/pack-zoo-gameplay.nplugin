@@ -1,10 +1,9 @@
 {
     "guid": "36b58638-633b-7f23-1d9f-7f6a8bde2329",
-    "source": "Source/Sky 900.mtli.nasset.dds",
+    "source": "Source/Sky_900_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,
