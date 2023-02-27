@@ -314,6 +314,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Spikes_Large.scene.nasset/Spikes Large.mesh.nasset/Spikes Large.mesh.nasset",
+        "thumbnail": "24bbba71-ee4e-4d6e-905e-8f68535c7e5c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -405,6 +406,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Spikes_Quad.scene.nasset/Spikes Quad.mesh.nasset/Spikes Quad.mesh.nasset",
+        "thumbnail": "6c28ec29-61ee-4a85-8445-941db35211a9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -582,6 +584,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Flag.scene.nasset/Flag.mesh.nasset/Flag.mesh.nasset",
+        "thumbnail": "bc9363f2-a220-4320-8b65-01191c9da88b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -715,6 +718,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Round_Table.scene.nasset/Round Table.mesh.nasset/Round Table.mesh.nasset",
+        "thumbnail": "e6e5427e-5164-4021-ad8f-3e17a06e0ea5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -780,6 +784,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Spikes_Small.scene.nasset/Spikes Small.mesh.nasset/Spikes Small.mesh.nasset",
+        "thumbnail": "412af26c-a9dc-4617-9533-4e15cb71d1f5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -858,6 +863,10 @@
             "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6"
         ]
     },
+    "e6e5427e-5164-4021-ad8f-3e17a06e0ea5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/RoundTable.scene.nasset.tex.nasset"
+    },
     "e999c213-26d7-4752-9e3f-6572a9b572f4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -894,6 +903,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Coin.scene.nasset/Coin.mesh.nasset/Coin.mesh.nasset",
+        "thumbnail": "69b0f77d-c291-40c8-8302-f9b73ee8090a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
