@@ -117,6 +117,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesLargeDanger.scene.nasset",
+        "thumbnail": "24bbba71-ee4e-4d6e-905e-8f68535c7e5c",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -150,6 +151,10 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "24bbba71-ee4e-4d6e-905e-8f68535c7e5c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/SpikesLargeDanger.scene.nasset.tex.nasset"
     },
     "254e8b35-bfcb-94bc-5531-48fe391c4cdc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -191,6 +196,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesSmallDanger.scene.nasset",
+        "thumbnail": "412af26c-a9dc-4617-9533-4e15cb71d1f5",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -291,6 +297,10 @@
     "411f6c19-0f68-4c34-c804-47e05a9a4b8c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Rose 900.mtli.nasset.tex.nasset"
+    },
+    "412af26c-a9dc-4617-9533-4e15cb71d1f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/SpikesSmallDanger.scene.nasset.tex.nasset"
     },
     "494a5f56-df13-e832-d8f8-cafcea4de666": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -454,6 +464,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "69b0f77d-c291-40c8-8302-f9b73ee8090a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/CoinCollectible.scene.nasset.tex.nasset"
+    },
     "6a6a04f2-fcd0-710f-85c0-c3761a1690f7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Violet 600.mtli.nasset.tex.nasset"
@@ -469,6 +483,10 @@
             "782cdd25-4ac2-14be-93b9-a802ea73dce7"
         ]
     },
+    "6c28ec29-61ee-4a85-8445-941db35211a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/SpikesDanger.scene.nasset.tex.nasset"
+    },
     "6ce2f198-fed8-e866-80d2-bf85e0ae6234": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Violet 800.mtli.nasset.tex.nasset"
@@ -481,6 +499,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Round_Table.scene.nasset/Round_Table.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "b465b4be-3648-f0a7-704c-fb88ce11f619"
         ]
@@ -489,6 +508,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/CoinCollectible.scene.nasset",
+        "thumbnail": "69b0f77d-c291-40c8-8302-f9b73ee8090a",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -599,6 +619,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/FinishFlag.scene.nasset",
+        "thumbnail": "bc9363f2-a220-4320-8b65-01191c9da88b",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -731,6 +752,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
     },
+    "bc9363f2-a220-4320-8b65-01191c9da88b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Mechanics/Thumbnails/FinishFlag.scene.nasset.tex.nasset"
+    },
     "becf4504-e893-6639-37e3-07e6b7289e11": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan 500.mtli.nasset",
@@ -837,6 +862,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Mechanics/SpikesDanger.scene.nasset",
+        "thumbnail": "6c28ec29-61ee-4a85-8445-941db35211a9",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
