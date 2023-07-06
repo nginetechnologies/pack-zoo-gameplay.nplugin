@@ -85,19 +85,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "ce6bc7da-63f7-476e-a014-0ec4184bf526",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin"
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
-            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
