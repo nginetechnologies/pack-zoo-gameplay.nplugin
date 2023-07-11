@@ -4,7 +4,8 @@
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "6a4408bb-7899-4099-bda8-be1c202a9195",
     "dependencies": [
-        "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+        "f6a49598-13c0-32a7-ac2e-71bad80ed913",
+        "9896166c-538e-4d85-9963-da97cc39b584"
     ],
     "tags": [
         "c642f003-618a-45dc-a031-b16f61473103"
