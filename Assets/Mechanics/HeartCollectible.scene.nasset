@@ -1,0 +1,103 @@
+{
+    "guid": "f209939b-b753-4185-bb08-ce13dea99b96",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "c642f003-618a-45dc-a031-b16f61473103"
+    ],
+    "dependencies": [
+        "61100cf7-ea52-1e21-5807-d3a7fc917bcf",
+        "3a982a3d-bcdc-3576-374e-7d60ff7d97cb",
+        "0c37fadb-3224-0729-ab1e-e2d182a647ec",
+        "0b610c47-bb94-badc-5ed5-1c83042e0c26",
+        "c96228c6-61c4-c840-a3d6-6fe55a6c8953",
+        "7bc684bd-375f-29af-0e6c-80a31f68055c",
+        "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8878f76d-d1e0-4782-ab0d-2e12330f9fe8",
+    "data_components": [
+        {
+            "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+            "rotation": [
+                0.0,
+                0.0,
+                180.0
+            ]
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "67b6e2f9-bedc-4dc7-87ff-2ab7b27ab463",
+            "instanceGuid": "18d5c643-72e4-4808-a682-2f18abac5245",
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "67b6e2f9-bedc-4dc7-87ff-2ab7b27ab463": {
+                "healthReward": 1,
+                "audio_asset": "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "New Collectible Component"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0,
+                    "layer": 3,
+                    "body_flags": 1,
+                    "maximumAngularVelocity": 2700.0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "bb0dade6-d420-4144-b13d-b0d4f3e599ff",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Heart Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "ae03d9a1-2b96-4909-b12e-ac50798d4178",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Heart Mesh"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c96228c6-61c4-c840-a3d6-6fe55a6c8953",
+                                "material_instance": "7bc684bd-375f-29af-0e6c-80a31f68055c"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c96228c6-61c4-c840-a3d6-6fe55a6c8953"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f209939b-b753-4185-bb08-ce13dea99b96"
+    },
+    "thumbnailGuid": "2f66d4da-9457-2836-cfc2-b3043168b56b"
+}
