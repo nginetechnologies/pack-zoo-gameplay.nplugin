@@ -13,5 +13,6 @@
         "f6c31290-cb03-452c-b3de-78f19a8cf943",
         "8769d80a-9b2c-4774-b54c-3893256b07fd"
     ],
-    "source": "Package.nplugin"
+    "source": "Package.nplugin",
+    "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359"
 }

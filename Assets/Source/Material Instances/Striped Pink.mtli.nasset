@@ -8,8 +8,7 @@
     "material": "846a87e3-b738-4471-a336-bcac78e126b1",
     "descriptor_contents": [
         {
-            "texture": "c3af96ae-2976-0783-8f54-1c1a17c2d997",
-            "address_mode": 0
+            "texture": "c3af96ae-2976-0783-8f54-1c1a17c2d997"
         }
     ],
     "push_constants": [
