@@ -39,7 +39,8 @@
             },
             "67b6e2f9-bedc-4dc7-87ff-2ab7b27ab463": {
                 "healthReward": 1,
-                "audio_asset": "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d"
+                "audio_asset": "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d",
+                "mesh": "c96228c6-61c4-c840-a3d6-6fe55a6c8953"
             },
             "data_components": [
                 {
@@ -56,41 +57,16 @@
             ],
             "children": [
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "bb0dade6-d420-4144-b13d-b0d4f3e599ff",
+                    "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
+                    "instanceGuid": "9a731362-8b49-4293-821a-d429781871ed",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Heart Collider"
+                            "name": "Sphere Collider"
                         }
                     ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "ae03d9a1-2b96-4909-b12e-ac50798d4178",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Heart Mesh"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "c96228c6-61c4-c840-a3d6-6fe55a6c8953",
-                                "material_instance": "7bc684bd-375f-29af-0e6c-80a31f68055c"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "c96228c6-61c4-c840-a3d6-6fe55a6c8953"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    "2c2ae148-5dc3-48b3-b1d6-d81913078fe5": {
+                        "radius": 0.5
                     }
                 }
             ]

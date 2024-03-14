@@ -38,7 +38,8 @@
             },
             "97f5d985-8b59-4864-82d8-0856b85b8c68": {
                 "scoreReward": 1,
-                "audio_asset": "9896166c-538e-4d85-9963-da97cc39b584"
+                "audio_asset": "9896166c-538e-4d85-9963-da97cc39b584",
+                "mesh": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
             },
             "data_components": [
                 {
@@ -55,36 +56,17 @@
             ],
             "children": [
                 {
-                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "ead289a0-2916-4b24-9bda-8ac95d0c94c3",
+                    "typeGuid": "2c2ae148-5dc3-48b3-b1d6-d81913078fe5",
+                    "instanceGuid": "8f456c58-36b7-4f76-af09-0ab159772624",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Coin"
+                            "name": "Sphere Collider"
                         }
                     ],
-                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                        "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
-                    },
-                    "children": [
-                        {
-                            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                            "instanceGuid": "e6e6ea2f-36e6-43b1-97f9-f175cbe8eca1",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Coin Physics Body"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "d9ff43dc-e97f-e401-9979-af18a0373edd"
-                                }
-                            ],
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "disabled": true
-                            }
-                        }
-                    ]
+                    "2c2ae148-5dc3-48b3-b1d6-d81913078fe5": {
+                        "radius": 0.5
+                    }
                 }
             ]
         }
