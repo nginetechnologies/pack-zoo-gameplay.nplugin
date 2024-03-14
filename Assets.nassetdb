@@ -310,6 +310,18 @@
             "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41"
         ]
     },
+    "1637b88b-bcf7-31ca-6941-6b92c605bbf3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Land_Mine.scene.nasset/Land Mine.mesh.nasset/Land Mine Teal 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fda7fbed-edb2-4fb2-4e2a-e5225bcc0566",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "172f4c53-c6e2-1f10-fd25-4865b600d0af": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "path": "Assets/Source/Flag.scene.nasset/Flag.scene.nasset"
@@ -618,6 +630,18 @@
             "b402be4f-bd8e-9c4e-8767-44e6ab062ab2"
         ]
     },
+    "2e1c15c2-0623-f0cc-7903-f88bd4992c8d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Land_Mine.scene.nasset/Land Mine.mesh.nasset/Land Mine Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2e28fba1-7bf7-3142-1876-53b3cb62749a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Yellow_Mountain_EnviroDiffuse.tex.nasset"
@@ -658,6 +682,13 @@
         "path": "Assets/Source/Material Instances/Purple 900.mtli.nasset",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2f8f6365-1cf9-4728-16b8-c0f3889b9295": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/Land_Mine.scene.nasset/Land Mine.mesh.nasset/Land Mine.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "320e7e38-92d2-d092-8705-323ff17a1d17": {
@@ -2578,6 +2609,18 @@
             "becf4504-e893-6639-37e3-07e6b7289e11"
         ]
     },
+    "b0604ebb-ca2c-b7c5-f9e3-ab71aecfa49a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Land_Mine.scene.nasset/Land Mine.mesh.nasset/Land Mine Rose 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f20a443-bb58-8aac-46ef-88fbc8d132a1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b0b138e8-4a6c-022c-62d1-066123c35976": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3808,6 +3851,10 @@
         "dependencies": [
             "4f20a443-bb58-8aac-46ef-88fbc8d132a1"
         ]
+    },
+    "fd97ffa1-5d32-c6ca-e9eb-8d4b9e63ac40": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Land_Mine.scene.nasset/Land_Mine.scene.nasset"
     },
     "fda7fbed-edb2-4fb2-4e2a-e5225bcc0566": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
