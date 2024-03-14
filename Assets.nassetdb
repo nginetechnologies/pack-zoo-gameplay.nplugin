@@ -348,6 +348,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Sky 600.mtli.nasset.tex.nasset"
     },
+    "1c7da610-1dd5-43b9-e46c-c826ac9c04a7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Turret_Base.scene.nasset/Turret_Base.scene.nasset"
+    },
     "1d11895d-6943-dd89-2b1d-f27575bea864": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -529,6 +533,10 @@
         "dependencies": [
             "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
         ]
+    },
+    "265cbe9e-3c31-06b3-c2c7-3e7247fefa94": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Turret_Gun.scene.nasset/Turret_Gun.scene.nasset"
     },
     "28fa271c-9d4b-63e5-c29b-29c7847b6d4a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -988,6 +996,18 @@
             "9d046a14-c9c0-285b-0ab5-97f3c991579c"
         ]
     },
+    "44e75b15-bcca-94a7-735e-7e14796d5fbf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Gun.scene.nasset/Turret Gun.mesh.nasset/Turret Gun Purple 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0bbd1c04-c4ba-34c7-b673-1229979410c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "45a1709d-f4da-1695-bb0d-2bd37721d8da": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1221,6 +1241,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Step_Medium.scene.nasset/Step_Medium.scene.nasset"
+    },
+    "53570c66-ac57-4e22-6fd0-04b5a5bf404e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Turret_Mid.scene.nasset/Turret_Mid.scene.nasset"
     },
     "5391f521-c373-0090-1ae7-60f6e81fb602": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1982,6 +2006,25 @@
             "542b9838-0569-134e-3c65-a715d200200a"
         ]
     },
+    "85dbe15b-082a-4098-fa6e-8bb17e685ae4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Base.scene.nasset/Turret Base.mesh.nasset/Turret Base Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "85df0b9b-cad1-8899-9b07-312ec9397ded": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/Turret_Base.scene.nasset/Turret Base.mesh.nasset/Turret Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "860c63d8-8171-ea2d-313a-7f516b71d2f6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2335,6 +2378,18 @@
             "628404dc-5a41-08de-461a-e4d0ac100c20"
         ]
     },
+    "9db69745-c96b-71c2-d6bf-4fb048b6abdd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Base.scene.nasset/Turret Base.mesh.nasset/Turret Base Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "9e2bdf4b-6d8c-a76a-e37a-3431d00325cf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2354,6 +2409,13 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Step_Small.scene.nasset/Step_Small.scene.nasset"
+    },
+    "9fc47548-0db6-bc03-802b-eff2041bce8a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/Turret_Gun.scene.nasset/Turret Gun.mesh.nasset/Turret Gun.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "a0d6d431-f67a-5ae6-787d-cfa1e0d9ae78": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2875,6 +2937,18 @@
             "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
         ]
     },
+    "bdee03a1-9449-557e-7860-24221ff1b3c0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Mid.scene.nasset/Turret Mid.mesh.nasset/Turret Mid Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "be197cf4-0115-8ba1-4214-1fba78118d0a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2910,6 +2984,13 @@
             "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
         ]
     },
+    "bfde001d-922e-aa24-3ec2-420bd474a2b9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Source/Turret_Mid.scene.nasset/Turret Mid.mesh.nasset/Turret Mid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "bfe16931-6039-db2b-ed4f-f5daf506f1d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Gray 700.mtli.nasset.tex.nasset"
@@ -2917,6 +2998,18 @@
     "c00386bf-5ac7-b910-80c2-ad8e65b5feaa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pink 700.mtli.nasset.tex.nasset"
+    },
+    "c0b02fdf-2f16-b931-f98f-b548ab890137": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Mid.scene.nasset/Turret Mid.mesh.nasset/Turret Mid Purple 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0bbd1c04-c4ba-34c7-b673-1229979410c6",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "c1a6f7a8-3607-bcd7-49df-70bb443b24a5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3561,6 +3654,18 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Chain_Link.scene.nasset/Chain_Link.scene.nasset"
+    },
+    "e98fdca6-c1a7-ea48-7e0e-9127374514dc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Turret_Gun.scene.nasset/Turret Gun.mesh.nasset/Turret Gun Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "e999c213-26d7-4752-9e3f-6572a9b572f4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",

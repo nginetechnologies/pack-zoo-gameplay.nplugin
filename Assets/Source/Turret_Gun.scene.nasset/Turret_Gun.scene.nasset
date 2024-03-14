@@ -1,0 +1,41 @@
+{
+    "guid": "265cbe9e-3c31-06b3-c2c7-3e7247fefa94",
+    "source": "../Turret_Gun.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e31cdaab-d255-b9f8-2597-fbd49fda7b71",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Turret Gun"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d8e53a80-ba5d-3e9e-f53f-c753fea28adf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Turret Gun"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    1.5499
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9fc47548-0db6-bc03-802b-eff2041bce8a"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "265cbe9e-3c31-06b3-c2c7-3e7247fefa94"
+    },
+    "dependencies": [
+        "9fc47548-0db6-bc03-802b-eff2041bce8a"
+    ]
+}
