@@ -3,6 +3,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Volcanoes_Enviro.tex.nasset"
     },
+    "00d2a6b3-cc4e-44f9-f68a-585db64d4eaf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Football.scene.nasset/Football.mesh.nasset/Football.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "53e358fd-0cb4-be2b-c248-c58655248329",
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb",
+            "61f38932-e988-1f0b-da83-efd2c9416f3d",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "0108905c-c50d-7c55-41f6-b7f5d21136bb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Volcanoes_EnviroSpecular.tex.nasset"
@@ -22,16 +36,82 @@
             "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
         ]
     },
+    "03a1405a-73bd-24c7-d8d1-094e8719bc8e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Launchpad.scene.nasset/Launchpad.mesh.nasset/Launchpad Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "043efd63-5943-a9c0-03e8-cdb3f0743a23": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f56ee054-cf65-262a-a54a-aa3f137efcf5",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f",
+            "a7442284-c756-67df-f535-62a12a4c0b74",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "c9bcacc2-e648-9f02-aa5c-40c9185c26b8",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "d104656d-cab4-ef4b-15a1-8299e8ffcfc6",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "23773bcb-ee9f-7fdb-8a20-813d9b5b92c2",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
     "053f58a5-3621-17e0-9b25-895e643df7bc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Cyan Alpha Grad.mtli.nasset.tex.nasset"
     },
+    "0584bd04-0cbd-8e25-3792-b795749d0f22": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever Base.mesh.nasset/Lever Base Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb"
+        ]
+    },
+    "05d2a3c1-c929-3be3-b7e7-3145c5fb244b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Stripe_Paddle.scene.nasset/Stripe Paddle.mesh.nasset/Stripe Paddle Striped Pink.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ab4a4769-3279-0184-6c9d-8510c2f666f6"
+        ]
+    },
     "05eecbbe-e53c-0ff4-6765-e3daf4884dca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Green 500.mtli.nasset",
-        "thumbnail": "abdbd4c0-d25a-4825-6314-890b29e17dac",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "05ef1828-51c1-799d-bf8b-f88a02cb0087": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Large.scene.nasset/Obstacle Pole Large.mesh.nasset/Obstacle Pole Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "131d40d2-a46a-4d76-2b90-ab839845cd0c",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "6cbf2901-e649-96b2-e2ca-d72a65868f7e",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
         ]
     },
     "063c581e-eecf-7a1e-58e1-b3aa2ce6047b": {
@@ -46,10 +126,36 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0714e58b-c57e-9733-caa3-2c6d6082a93a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Battery.scene.nasset/Battery.scene.nasset"
+    },
+    "083d43dc-222b-c80f-5557-79b15bdbad72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Trigger_Base.scene.nasset/Trigger Base.mesh.nasset/Trigger Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2ce6efc3-1d23-00e4-19a1-2857587573b6",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "bb1f97b8-ac13-2070-cd4e-59f38c0407f1",
+            "628404dc-5a41-08de-461a-e4d0ac100c20"
+        ]
+    },
+    "08628af8-d0bb-cc93-bacc-ccc43e055061": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Pillow.scene.nasset/Pillow.mesh.nasset",
+        "dependencies": [
+            "542b9838-0569-134e-3c65-a715d200200a"
+        ]
+    },
     "08dfe929-68f1-a6f6-e65f-3ffacad47177": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Green 700.mtli.nasset",
-        "thumbnail": "011efe4b-0e77-763f-7e2b-b211b5faf581",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -61,7 +167,6 @@
     "0b610c47-bb94-badc-5ed5-1c83042e0c26": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Lime 800.mtli.nasset",
-        "thumbnail": "9e57defe-2ce9-c41d-3090-b5eb7a00e470",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -69,9 +174,19 @@
     "0bbd1c04-c4ba-34c7-b673-1229979410c6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 600.mtli.nasset",
-        "thumbnail": "ade1cc12-6aee-3df9-169b-7e82fbbf1e95",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0bcf52c4-2c07-64ea-4ab4-37f89ab2aa46": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.mesh.nasset/Cog Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
         ]
     },
     "0c37fadb-3224-0729-ab1e-e2d182a647ec": {
@@ -92,7 +207,6 @@
     "0db08a90-3da3-271a-ceec-a0a13cfd8d0a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Red 600.mtli.nasset",
-        "thumbnail": "6ef37329-96df-39c6-b5f8-7c5e54ab94f1",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -100,7 +214,6 @@
     "0e2be77c-03a0-1d65-f33e-d34ca2a8f618": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan Alpha Grad.mtli.nasset",
-        "thumbnail": "053f58a5-3621-17e0-9b25-895e643df7bc",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -109,6 +222,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Farmland_EnviroDiffuse.tex.nasset"
     },
+    "1051266e-a360-b21e-5537-b3514aefad04": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Red.scene.nasset/Spawn_Red.scene.nasset"
+    },
     "10a82b40-32d2-bcf6-ee86-d137402662f3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Purple_Stars_Enviro.tex.nasset"
@@ -116,26 +234,205 @@
     "11160dfe-7038-a8ac-4565-5247ce636cea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 700.mtli.nasset",
-        "thumbnail": "bb7e7f5b-b87f-1233-f9e0-bcdbf17e3f2d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "112d5f1d-9f43-ad5a-6861-c5183f7619c7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Football.scene.nasset/Football.scene.nasset"
+    },
+    "12ba7a7f-e539-c5bb-ee32-bdcb16fec519": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Battery.scene.nasset/Battery.mesh.nasset/Battery.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "cfeb72dd-87c5-3854-cecc-1fd3447893b2",
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb",
+            "e1061f29-d27a-764a-80f9-d8cd6bdb8fb4",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "131d40d2-a46a-4d76-2b90-ab839845cd0c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Large.scene.nasset/Obstacle Pole Large.mesh.nasset/Obstacle Pole Large Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
         ]
     },
     "131d7187-5d85-0cfb-2399-d7c5998cf6e2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Emerald 600.mtli.nasset.tex.nasset"
     },
+    "13a0e9ed-85ca-c8f4-a642-cf8f61aa275e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Launchpad.scene.nasset/Launchpad.mesh.nasset/Launchpad Gray 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5efddc9-132b-ba57-fad5-8911c198a204"
+        ]
+    },
+    "1463b21a-5095-5054-a70b-24916cde40c6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Spiral_Blue.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
+    },
+    "15921b78-57c2-38be-19bc-b09413de8382": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Launchpad.scene.nasset/Launchpad.mesh.nasset/Launchpad.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "03a1405a-73bd-24c7-d8d1-094e8719bc8e",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "13a0e9ed-85ca-c8f4-a642-cf8f61aa275e",
+            "d5efddc9-132b-ba57-fad5-8911c198a204",
+            "e57303de-f8cb-3dff-aecd-c2d695d70119",
+            "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41"
+        ]
+    },
+    "172f4c53-c6e2-1f10-fd25-4865b600d0af": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Flag.scene.nasset/Flag.scene.nasset"
+    },
     "190eba58-9b30-61fe-dcaa-ae669e102d21": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Forest_Town_Night_EnviroDiffuse.tex.nasset"
+    },
+    "196b6199-76da-168d-322f-935a966be72b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Stripe_Paddle.scene.nasset/Stripe Paddle.mesh.nasset/Stripe Paddle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e283b5f9-3217-1303-08ae-cc89bc8b724e",
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59",
+            "05d2a3c1-c929-3be3-b7e7-3145c5fb244b",
+            "ab4a4769-3279-0184-6c9d-8510c2f666f6"
+        ]
     },
     "1a5a8d49-0707-b24b-eaec-6569ece8b8c4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Sky 600.mtli.nasset.tex.nasset"
     },
+    "1d11895d-6943-dd89-2b1d-f27575bea864": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fence_Connector.scene.nasset/Fence_Connector.mesh.nasset",
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "1e509ac5-6b74-64fc-e894-f4714f5fe434": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spike_Ball.scene.nasset/Spike Ball.mesh.nasset/Spike Ball.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "9b1ada42-a29a-69d3-e2e7-3f18b9b09798",
+            "f8719f47-bf2c-f96b-fae1-3f0b7111f416",
+            "fc2d12ee-cc74-c1bd-960f-e2be011e88c2",
+            "4f20a443-bb58-8aac-46ef-88fbc8d132a1"
+        ]
+    },
+    "1e9de0f9-5886-7d43-127a-bed01f9642a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Arm.scene.nasset/Scale Arm.mesh.nasset/Scale Arm.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "dd2e533e-ca89-a153-44c9-9f874f36f2f4",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "db598efd-1f20-2b8a-427b-7c95079a4ca8",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "db12b506-9af7-93df-1493-b231d72a145c",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "1ee4e6f7-ff30-6cc7-76d9-ee39d0305b22": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Gray 500.mtli.nasset.tex.nasset"
+    },
+    "1f6dbb7d-a60c-2bbd-313f-1e3e373dc75d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrel.scene.nasset/Barrel.mesh.nasset/Barrel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "40d74c22-74ec-1aa8-fa9e-9833c9b95ef4",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "8d438b91-9943-6c04-e00b-b9ead87345ff",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "1f8abd85-b4b2-055d-a768-0235d9829828": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Key.scene.nasset/Key.scene.nasset"
+    },
+    "1fd8746d-74f6-f228-808d-66bbba83bb11": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Ring_Pink.scene.nasset/Ring_Pink.mesh.nasset",
+        "dependencies": [
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
+    },
+    "1ff7b17c-4109-0dff-d663-e27478c284ec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrier_03.scene.nasset/Barrier 03.mesh.nasset/Barrier 03 Gray 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5efddc9-132b-ba57-fad5-8911c198a204"
+        ]
+    },
+    "2034458c-859b-04ee-f43f-0a16abf0f3c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever Base.mesh.nasset/Lever Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f80cb170-cf7d-a22c-a449-1e8f37a90b91",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca",
+            "0584bd04-0cbd-8e25-3792-b795749d0f22",
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb",
+            "e4e1be11-8620-eeeb-4921-e553d8787e33",
+            "08dfe929-68f1-a6f6-e65f-3ffacad47177",
+            "5dff538b-4c1a-7708-624e-437952b581fa",
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
     },
     "21b6aba8-3341-4935-bc6f-0a63318b4bce": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -152,10 +449,14 @@
     "22a3aa1a-c187-6260-925b-de14a545d30c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Indigo 700.mtli.nasset",
-        "thumbnail": "f50ca893-36b8-0490-54be-85918477bc40",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "22bc2c98-4109-910d-f0c0-570ce17dfb55": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Blue.scene.nasset/Spawn_Blue.scene.nasset"
     },
     "235001c4-2c7b-ac58-403d-43693fcef239": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -171,9 +472,19 @@
     "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Yellow 500.mtli.nasset",
-        "thumbnail": "9b0bf7e2-85ca-895f-dfc9-976b72e80b9e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "23773bcb-ee9f-7fdb-8a20-813d9b5b92c2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
         ]
     },
     "24595fb8-f9f0-5f66-fed5-f4ad3ad027c3": {
@@ -196,10 +507,20 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "260bdc1f-8163-4b10-6fe1-c1b86719f4ec": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Legs.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
     "28fa271c-9d4b-63e5-c29b-29c7847b6d4a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Yellow 600.mtli.nasset",
-        "thumbnail": "f8ae9758-a0df-22f1-80a6-8e6c89352d38",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -207,7 +528,6 @@
     "29223527-c34f-d523-69ff-5c22616a178a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 900.mtli.nasset",
-        "thumbnail": "36b58638-633b-7f23-1d9f-7f6a8bde2329",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -216,12 +536,63 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Purple_Stars_EnviroDiffuse.tex.nasset"
     },
+    "2a7cd3ce-4d8e-fae3-905b-009a572601a0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Spiral_Red.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6429996e-5da9-ffa8-531c-0e25d4d10582"
+        ]
+    },
+    "2bda3a45-b895-8c98-5163-81bc64921a7f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking Ball.mesh.nasset/Wrecking Ball Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d82ca461-21be-d94c-ea03-1584affb1743"
+        ]
+    },
     "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 700.mtli.nasset",
-        "thumbnail": "c00386bf-5ac7-b910-80c2-ad8e65b5feaa",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "2c2bfade-f1b3-6c91-47e2-1a57c46ec265": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Hammer.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "2c9dce22-3264-1670-6eea-6ccbcb152a6e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Ring_Violet.scene.nasset/Ring_Violet.mesh.nasset",
+        "dependencies": [
+            "f9e40cd5-7715-0082-9534-4932eb3c26b2"
+        ]
+    },
+    "2ce6efc3-1d23-00e4-19a1-2857587573b6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Trigger_Base.scene.nasset/Trigger Base.mesh.nasset/Trigger Base Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
         ]
     },
     "2d5ae1ec-b523-45d5-9806-2e756b2c6695": {
@@ -236,25 +607,89 @@
             "c25b0633-1132-cc72-7a35-c23d61768059"
         ]
     },
+    "2d8f79aa-4460-3fb5-2faf-c8277d670d23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Magnet.scene.nasset/Magnet.mesh.nasset/Magnet Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b402be4f-bd8e-9c4e-8767-44e6ab062ab2"
+        ]
+    },
     "2e28fba1-7bf7-3142-1876-53b3cb62749a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Yellow_Mountain_EnviroDiffuse.tex.nasset"
+    },
+    "2e988e54-8706-bd44-4c2f-8ebe1ab3c221": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.mesh.nasset/Cog Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
     },
     "2f66d4da-9457-2836-cfc2-b3043168b56b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Heart.mesh.nasset/Thumbnails/Heart.mesh.nasset.tex.nasset"
     },
+    "2f69d612-e06e-9554-8dc5-56ddf789c47f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Crate_02.scene.nasset/Crate_02.scene.nasset"
+    },
+    "2f6ab49a-3135-0c52-7e1e-5b98d90db7c8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.mesh.nasset/Cannon Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
+    },
     "2f6f1dd9-b305-40a7-02b8-99dd84569bc0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 900.mtli.nasset",
-        "thumbnail": "349674d3-4be2-642c-28a0-0f0cc4aaa603",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "320e7e38-92d2-d092-8705-323ff17a1d17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Trigger_Button.scene.nasset/Trigger Button.mesh.nasset/Trigger Button Cyan 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "628404dc-5a41-08de-461a-e4d0ac100c20"
         ]
     },
     "349674d3-4be2-642c-28a0-0f0cc4aaa603": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Purple 900.mtli.nasset.tex.nasset"
+    },
+    "34b38840-bca1-8b68-5541-6bfcf21d5891": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.mesh.nasset/Cannon Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "34be11e5-dfe9-c095-7a3d-2d87c9d64980": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Large.scene.nasset/Obstacle_Pole_Large.scene.nasset"
     },
     "3554d01d-ac2e-699e-217e-b3bbb3fc6873": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -271,10 +706,36 @@
             "22a3aa1a-c187-6260-925b-de14a545d30c"
         ]
     },
+    "363ae77e-d188-dcd3-8874-1c5117ed6202": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Large.scene.nasset/Step_Large.scene.nasset"
+    },
+    "364296e0-57d2-6ba5-8a3f-34ccd553da95": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Battery_Large.scene.nasset/Battery Large.mesh.nasset/Battery Large Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb"
+        ]
+    },
+    "366c7f91-0eb0-8152-68a1-6a51d2d443bd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Blue.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Cyan Alpha Grad.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0e2be77c-03a0-1d65-f33e-d34ca2a8f618"
+        ]
+    },
     "36909929-051b-edea-fc02-604987ba8e6c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 800.mtli.nasset",
-        "thumbnail": "c21a5b84-75e5-fb0e-b76b-395d248c68db",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -283,10 +744,32 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Sky 900.mtli.nasset.tex.nasset"
     },
+    "36f2af77-859d-0914-4ff0-8b128047eaac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking Rope.mesh.nasset/Wrecking Rope.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b64fdabd-2c27-40bb-6400-1dc4e8408eb6",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "a3af5198-2fc3-d6e8-3e0d-81ffeb9af3a1",
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb",
+            "e3b451cd-9243-1e73-ddd2-64fc1ddd537a",
+            "38421120-a50a-4281-d861-2cd1871b1ba7",
+            "3c2f7da1-c2c2-0dd6-0adf-337a2c5c6a61",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "375770c8-d6cd-52f5-c157-b496df7baec7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Pressure_Housing.scene.nasset/Pressure_Housing.scene.nasset"
+    },
     "38421120-a50a-4281-d861-2cd1871b1ba7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 600.mtli.nasset",
-        "thumbnail": "c557ab73-2688-61c8-780f-5654551a2143",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -294,9 +777,27 @@
     "385e5910-9188-5a65-dd3f-3d4009e0fd77": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Teal 500.mtli.nasset",
-        "thumbnail": "5caa1791-2405-1527-64ed-0faf156e5d53",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "39002c0f-9834-b85a-8895-775f6e4cbabb": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Ring_Hoop.scene.nasset/Ring_Hoop.scene.nasset"
+    },
+    "3928a576-2fa2-2f81-510d-295085628a8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spiral.scene.nasset/Spiral.mesh.nasset/Spiral.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "da758169-2b1e-44b2-9420-f4837712e726",
+            "28fa271c-9d4b-63e5-c29b-29c7847b6d4a",
+            "a5029dee-3c2b-2aa8-58b6-beed81ee2a13",
+            "385e5910-9188-5a65-dd3f-3d4009e0fd77"
         ]
     },
     "3a48374f-f09e-0a93-2414-d24a818ab438": {
@@ -306,7 +807,6 @@
     "3a982a3d-bcdc-3576-374e-7d60ff7d97cb": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Lime 600.mtli.nasset",
-        "thumbnail": "3a48374f-f09e-0a93-2414-d24a818ab438",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -319,12 +819,59 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pink 800.mtli.nasset.tex.nasset"
     },
+    "3c2f7da1-c2c2-0dd6-0adf-337a2c5c6a61": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking Rope.mesh.nasset/Wrecking Rope Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "3cf455a7-b7ed-4c40-e933-70d003cb0471": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Stripe_Paddle.scene.nasset/Stripe_Paddle.scene.nasset"
+    },
+    "3d3614ac-6c2b-4728-c684-c6bb6a81d807": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.mesh.nasset/Cog.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8ab3b4b3-577e-cf0b-631a-edb1c8feb8de",
+            "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6",
+            "2e988e54-8706-bd44-4c2f-8ebe1ab3c221",
+            "38421120-a50a-4281-d861-2cd1871b1ba7",
+            "58d71dab-1aff-f121-591b-756385f9ae23",
+            "b402be4f-bd8e-9c4e-8767-44e6ab062ab2",
+            "0bcf52c4-2c07-64ea-4ab4-37f89ab2aa46",
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
+    },
     "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 800.mtli.nasset",
-        "thumbnail": "3c2ccf07-0d3a-ee4b-c399-3d2a4d18d25c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "3eaf6f3d-f095-1199-61c7-bb1ff36236af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Medium.scene.nasset/Step Medium.mesh.nasset/Step Medium.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b11a7af4-061f-194f-ed2a-f889509b2891",
+            "f9e40cd5-7715-0082-9534-4932eb3c26b2",
+            "4826a370-5408-ad74-f28c-2f5efe25650e",
+            "494a5f56-df13-e832-d8f8-cafcea4de666"
         ]
     },
     "3eecff0a-9c6d-4efc-acba-08ba6b95f631": {
@@ -342,6 +889,28 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Lime 500.mtli.nasset.tex.nasset"
     },
+    "3ff4bdc4-dff2-ea58-b5f2-8be94365223e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Seesaw_Base.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base Purple 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6"
+        ]
+    },
+    "40d74c22-74ec-1aa8-fa9e-9833c9b95ef4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrel.scene.nasset/Barrel.mesh.nasset/Barrel Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "411f6c19-0f68-4c34-c804-47e05a9a4b8c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Rose 900.mtli.nasset.tex.nasset"
@@ -350,13 +919,89 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechanics/Thumbnails/SpikesSmallDanger.scene.nasset.tex.nasset"
     },
+    "429ae5bb-8bf5-cdd6-0fbb-3d75f7779fb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Thruster_Housing.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "430dd9a2-cf22-0215-0e26-5c25fea58988": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Blocky_Desert_Enviro.tex.nasset"
     },
+    "431ddf91-b632-e423-3552-d899a33465e6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Hammer.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "4392f9b9-e609-fb3e-ea64-eb8e2eda9268": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Fantasy_Town_EnviroDiffuse.tex.nasset"
+    },
+    "4440ea68-b3ee-d67a-226e-7a73e619d19f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Pressure_Housing.scene.nasset/Pressure_Housing.mesh.nasset",
+        "dependencies": [
+            "9d046a14-c9c0-285b-0ab5-97f3c991579c"
+        ]
+    },
+    "45a1709d-f4da-1695-bb0d-2bd37721d8da": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Saw.scene.nasset/Saw.mesh.nasset/Saw.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4afea76b-0cc8-e341-eea3-cccc4255c57b",
+            "36909929-051b-edea-fc02-604987ba8e6c",
+            "dd2951bb-fa92-223d-ae0f-a6e473a98a29",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "467689a5-7295-2e50-1fdc-9715e4a96f04": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fan.scene.nasset/Fan.scene.nasset"
+    },
+    "468c060c-fad1-2ab9-1990-e3c88bfde32d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking_Ball.scene.nasset"
+    },
+    "4826a370-5408-ad74-f28c-2f5efe25650e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Medium.scene.nasset/Step Medium.mesh.nasset/Step Medium Violet 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "494a5f56-df13-e832-d8f8-cafcea4de666"
+        ]
+    },
+    "48844a9b-fd97-0805-9b19-7aa4361fefef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Thruster_Housing.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
     },
     "48b1eeac-30b3-0b4b-7084-efd3428bbaf8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -365,10 +1010,64 @@
     "494a5f56-df13-e832-d8f8-cafcea4de666": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Violet 800.mtli.nasset",
-        "thumbnail": "6ce2f198-fed8-e866-80d2-bf85e0ae6234",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "4a5c3f88-a1d1-b5c5-bcda-4bfd99cbf47c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Source/Coin.scene.nasset/Coin.scene.nasset"
+    },
+    "4a78dc06-c86c-a1a6-c9fb-bbcbb1e7b8ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Diamond.scene.nasset/Diamond.scene.nasset"
+    },
+    "4a86fce2-0410-34cc-2428-1ba50c4cb4bb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Red.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Rose 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f2048507-a43e-302d-1661-622b8c8dea77"
+        ]
+    },
+    "4aef0103-5f4d-6e5c-a8e3-6b140b47c752": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Seesaw_Plank.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "4af77c64-9af9-07b7-04a8-a4b406a382c5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Key.scene.nasset/Key.mesh.nasset",
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "4afea76b-0cc8-e341-eea3-cccc4255c57b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Saw.scene.nasset/Saw.mesh.nasset/Saw Purple 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36909929-051b-edea-fc02-604987ba8e6c"
+        ]
+    },
+    "4b099bdf-6dc2-354c-5e64-4f5086c36617": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrel.scene.nasset/Barrel.scene.nasset"
     },
     "4b1dbd50-58f5-4a67-2cff-9bf7c57c0f18": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -391,20 +1090,88 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Blocky_EnviroSpecular.tex.nasset"
     },
+    "4ba2c6ac-6df9-6fbd-64b8-c33e17ce597d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fan_Blade.scene.nasset/Fan_Blade.mesh.nasset",
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
     "4bf6f5df-b308-c238-f52d-f1e83baa1a59": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Pink 500.mtli.nasset",
-        "thumbnail": "b3bc550c-9a38-7b02-c030-b253907ce319",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "4c10fcf7-6127-31ca-ab3a-d3e72d454ead": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Chain_Link.scene.nasset/Chain_Link.mesh.nasset",
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "4e658c45-ce8d-5b43-4dbb-46fc35192f57": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Blue.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "f702417f-0052-4e41-c42f-cbc103681e8e",
+            "6429996e-5da9-ffa8-531c-0e25d4d10582",
+            "81a60508-32d4-7f51-23b4-b61bec4dc8b7",
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98",
+            "366c7f91-0eb0-8152-68a1-6a51d2d443bd",
+            "0e2be77c-03a0-1d65-f33e-d34ca2a8f618"
         ]
     },
     "4f20a443-bb58-8aac-46ef-88fbc8d132a1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rose 700.mtli.nasset",
-        "thumbnail": "a9037337-0a25-cf40-8b24-73337d3ade14",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "4f9aa6e2-fd40-902b-f500-36639c421888": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale_Palette.scene.nasset"
+    },
+    "4fe87548-f87d-7c50-c463-9b962bc646d4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Thruster_Housing.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "500c048d-297f-0991-3778-fc55a1a0bf61": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Treasure_Lid.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Pink 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41"
+        ]
+    },
+    "510acedf-1644-5728-7f3b-172be414f3f8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Small.scene.nasset/Obstacle Pole Small.mesh.nasset/Obstacle Pole Small Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
         ]
     },
     "5168bef0-7355-cda3-fe74-5fe86f9b72ec": {
@@ -419,6 +1186,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Blocky_Enviro.tex.nasset"
     },
+    "53450735-112a-6075-cf1c-307322fba0c1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Medium.scene.nasset/Step_Medium.scene.nasset"
+    },
     "5391f521-c373-0090-1ae7-60f6e81fb602": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -430,18 +1202,49 @@
             "77abe3f0-3514-fbfb-a56f-31505b7d7648"
         ]
     },
+    "53bbc17f-2ac8-d101-9e52-36338bec181a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Trigger_Button.scene.nasset/Trigger Button.mesh.nasset/Trigger Button Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "53e358fd-0cb4-be2b-c248-c58655248329": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Football.scene.nasset/Football.mesh.nasset/Football Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
+    },
     "542b9838-0569-134e-3c65-a715d200200a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Lime 500.mtli.nasset",
-        "thumbnail": "3fb00d21-b3dc-20b9-bb57-7ed465699937",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "54e8f933-79e1-1047-fa10-673dd5d60e9f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Seesaw_Plank.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
         ]
     },
     "556b794f-2fa9-97ba-ed15-5178aa1dfe19": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rose Alpha Grad.mtli.nasset",
-        "thumbnail": "d147b162-eaaa-d606-f6d3-513065e43b25",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -462,16 +1265,73 @@
             "542b9838-0569-134e-3c65-a715d200200a"
         ]
     },
+    "5762a8a2-94d0-54f1-dbbb-b4c57972a45b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Spiral_Blue.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6429996e-5da9-ffa8-531c-0e25d4d10582"
+        ]
+    },
     "579ab8ea-d0ab-7838-af28-75f89ac2e126": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Eyeball_EnviroDiffuse.tex.nasset"
     },
+    "57a2b039-2409-e0a9-44a2-a3a4679547d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrier_03.scene.nasset/Barrier 03.mesh.nasset/Barrier 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1ff7b17c-4109-0dff-d663-e27478c284ec",
+            "d5efddc9-132b-ba57-fad5-8911c198a204",
+            "98672895-5c05-7dcc-0bcf-ea2473f851bf",
+            "0bbd1c04-c4ba-34c7-b673-1229979410c6"
+        ]
+    },
     "5802ad6a-57ca-9509-68b7-ca5b6d7938bb": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 700.mtli.nasset",
-        "thumbnail": "7d24bf88-7401-3faa-8ecd-0d24d9457f63",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "581ccb1b-0fa0-dfdb-7e0c-3821674abf22": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Crate_02.scene.nasset/Crate 02.mesh.nasset/Crate 02 Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
+    },
+    "5890a980-3426-c5e8-2741-693c8613ba69": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Small.scene.nasset/Step Small.mesh.nasset/Step Small Blue 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b79422fd-7233-dc08-4236-66dcb789d70f"
+        ]
+    },
+    "58d71dab-1aff-f121-591b-756385f9ae23": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.mesh.nasset/Cog Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b402be4f-bd8e-9c4e-8767-44e6ab062ab2"
         ]
     },
     "590e38fe-6ff7-aa40-b879-3ca96d3a2d6e": {
@@ -491,6 +1351,11 @@
             "c96228c6-61c4-c840-a3d6-6fe55a6c8953",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5a6f53f5-588b-8376-93e1-f5aa000fa351": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Magnet.scene.nasset/Magnet.scene.nasset"
     },
     "5caa1791-2405-1527-64ed-0faf156e5d53": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -517,13 +1382,62 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Fuschia 600.mtli.nasset.tex.nasset"
     },
+    "5dff538b-4c1a-7708-624e-437952b581fa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever Base.mesh.nasset/Lever Base Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
+    },
     "5e0c085a-8249-2939-0517-709d41eda769": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Dunes_Orange_EnviroSpecular.tex.nasset"
     },
+    "5e2ab644-867c-3070-39b7-a0f9436ee06c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Small.scene.nasset/Obstacle Pole Small.mesh.nasset/Obstacle Pole Small Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "5e86d200-7eb6-64f4-ef90-44044603c012": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Treasure_Base.scene.nasset/Treasure Base.mesh.nasset/Treasure Base Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "5ef19229-32d0-0e41-b097-9f4768f25029": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Neon_Tents_EnviroDiffuse.tex.nasset"
+    },
+    "5fb1f0d6-820c-9799-76b4-5af68fb688d2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Handle.scene.nasset/Lever Handle.mesh.nasset/Lever Handle Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "6007e1d0-b18b-bdeb-7d5c-c91c11d18a9f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Stripe_Paddle_Post.scene.nasset/Stripe_Paddle_Post.scene.nasset"
     },
     "600d2bca-a7f3-bc98-cca8-7c5ab7928814": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -544,9 +1458,25 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Above_Clouds_EnviroSpecular.tex.nasset"
     },
+    "617e816a-4263-9732-7a27-dd8e73c5b5b6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Battery_Large.scene.nasset/Battery_Large.scene.nasset"
+    },
     "61bba73f-b179-a4f2-c67e-1577fa942767": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Underwater_Enviro.tex.nasset"
+    },
+    "61f38932-e988-1f0b-da83-efd2c9416f3d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Football.scene.nasset/Football.mesh.nasset/Football Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
     },
     "62642299-dda3-8de6-a717-005e0e54455e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -555,15 +1485,71 @@
     "628404dc-5a41-08de-461a-e4d0ac100c20": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan 700.mtli.nasset",
-        "thumbnail": "89a9b02b-898a-dd1d-08ca-df7bdc010148",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "62c10167-67a2-19c0-ce8a-b9bc57363af0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrier_02.scene.nasset/Barrier 02.mesh.nasset/Barrier 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "637609ea-62c2-85a4-986a-f7036ac72de1",
+            "d5efddc9-132b-ba57-fad5-8911c198a204",
+            "dd0967c1-75e0-be1e-c6df-612480bfde7d",
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
+    },
+    "62fd47a0-56b0-b494-be38-3aecdc04c314": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Seesaw_Base.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "630621f1-ef93-718e-1f43-bdc36abc9cfe": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fan.scene.nasset/Fan.mesh.nasset/Fan Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
+    },
+    "637609ea-62c2-85a4-986a-f7036ac72de1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrier_02.scene.nasset/Barrier 02.mesh.nasset/Barrier 02 Gray 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d5efddc9-132b-ba57-fad5-8911c198a204"
+        ]
+    },
+    "641ea2a2-e7cb-1ebb-a38c-1d37f6056baa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Spiral_Blue.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
         ]
     },
     "6429996e-5da9-ffa8-531c-0e25d4d10582": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gray 700.mtli.nasset",
-        "thumbnail": "bfe16931-6039-db2b-ed4f-f5daf506f1d9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -571,14 +1557,50 @@
     "65c9c66a-eb58-1104-074b-5d5674f830fe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 600.mtli.nasset",
-        "thumbnail": "1a5a8d49-0707-b24b-eaec-6569ece8b8c4",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "65d856a6-6f7c-bedd-a7ff-ec86030fbb3a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Target.scene.nasset/Target.mesh.nasset/Target Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "668a340f-c414-e5d7-0db6-2cd3fe8594cf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever_Base.scene.nasset"
+    },
+    "68312b02-6794-a5f1-a8b9-f3618652ca61": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Spiral_Red.scene.nasset/Spawn_Spiral_Red.scene.nasset"
+    },
+    "694abb20-a421-42a3-4027-a6b4fb456bc5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Launchpad.scene.nasset/Launchpad.scene.nasset"
+    },
     "69b0f77d-c291-40c8-8302-f9b73ee8090a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechanics/Thumbnails/CoinCollectible.scene.nasset.tex.nasset"
+    },
+    "69bc9777-c72c-663f-87e3-cbba3e0d2917": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Ring_Hoop.scene.nasset/Ring Hoop.mesh.nasset/Ring Hoop Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
     },
     "69f16635-d00a-4b99-dc2f-3be633a0242b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -587,6 +1609,11 @@
     "6a6a04f2-fcd0-710f-85c0-c3761a1690f7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Violet 600.mtli.nasset.tex.nasset"
+    },
+    "6a825554-a3cf-4d5b-af0f-123787edda17": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fence_Connector.scene.nasset/Fence_Connector.scene.nasset"
     },
     "6b391b9f-cd5e-196b-242e-cc42cf5a1960": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -607,9 +1634,34 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechanics/Thumbnails/SpikesDanger.scene.nasset.tex.nasset"
     },
+    "6cbf2901-e649-96b2-e2ca-d72a65868f7e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Large.scene.nasset/Obstacle Pole Large.mesh.nasset/Obstacle Pole Large Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
+    },
     "6ce2f198-fed8-e866-80d2-bf85e0ae6234": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Violet 800.mtli.nasset.tex.nasset"
+    },
+    "6e0e79ec-9c8a-17a8-9c4f-74569841ba7f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Palette.scene.nasset/Palette.mesh.nasset/Palette.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ab3905cb-e82e-5567-ccbb-3f993709b20f",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "c40203ae-9f3e-67a0-2ef7-6b773f4b0b66",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
     },
     "6e3111f8-0515-d2f0-90fd-20a4858a61a9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -627,9 +1679,47 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Red 600.mtli.nasset.tex.nasset"
     },
+    "6f1ed353-d447-0035-f8b2-231238ea033a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking Ball.mesh.nasset/Wrecking Ball Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
+    },
+    "6ffcaddc-1317-fe54-4c5f-0c4049001ff8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Stripe_Paddle_Post.scene.nasset/Stripe Paddle Post.mesh.nasset/Stripe Paddle Post Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
+    },
     "71cd50f3-1ace-1ae3-0297-8d10e0614531": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Frozen_Forest_Enviro.tex.nasset"
+    },
+    "723986fd-2a5b-7d11-2fd0-ad48253bb2d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Ring_Pink.scene.nasset/Ring_Pink.scene.nasset"
+    },
+    "724da8b0-9b69-ee1e-87e4-1bfb8cacd2f0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fan.scene.nasset/Fan.mesh.nasset/Fan Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
     },
     "72780307-6b0a-0a89-931f-c80af14cb922": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -638,6 +1728,35 @@
         "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f",
         "dependencies": [
             "b465b4be-3648-f0a7-704c-fb88ce11f619"
+        ]
+    },
+    "72f02303-73d9-27ea-028a-a6059750d1f8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Legs.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "742bdc9b-9a6a-2cf3-25b1-9bbbb86fa732": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Center.scene.nasset/Obstacle_Pole_Center.scene.nasset"
+    },
+    "74aaaab0-4a88-6b45-81ec-345090987538": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fence_Post.scene.nasset/Fence_Post.scene.nasset"
+    },
+    "74bcff01-0e6d-906f-5cf0-ac4ab2fa4fad": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrier_01.scene.nasset/Barrier_01.mesh.nasset",
+        "dependencies": [
+            "c5074e91-b874-ac26-62e9-9ceab4f4407d"
         ]
     },
     "762aa592-48c5-401c-a1a3-997e85e9f1a0": {
@@ -651,6 +1770,20 @@
         "dependencies": [
             "f6a49598-13c0-32a7-ac2e-71bad80ed913",
             "9896166c-538e-4d85-9963-da97cc39b584"
+        ]
+    },
+    "767e7b3b-974d-c043-f29e-76817d4866d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Small.scene.nasset/Step Small.mesh.nasset/Step Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5890a980-3426-c5e8-2741-693c8613ba69",
+            "b79422fd-7233-dc08-4236-66dcb789d70f",
+            "a4b36599-768a-f14d-4c89-c180aee7a0da",
+            "9d046a14-c9c0-285b-0ab5-97f3c991579c"
         ]
     },
     "768725bc-601f-b919-1fad-0a9309a791eb": {
@@ -671,7 +1804,6 @@
     "77abe3f0-3514-fbfb-a56f-31505b7d7648": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rose 900.mtli.nasset",
-        "thumbnail": "411f6c19-0f68-4c34-c804-47e05a9a4b8c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -679,14 +1811,29 @@
     "782cdd25-4ac2-14be-93b9-a802ea73dce7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Indigo 500.mtli.nasset",
-        "thumbnail": "aee0b5d9-3053-f871-1dae-a0c91caf423a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "7a3c9ef8-38f3-4828-5607-f2de277ba161": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Spiral_Red.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red Rose 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f2048507-a43e-302d-1661-622b8c8dea77"
         ]
     },
     "7b0edf13-e272-f6c2-c23f-bd565959f9a9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Frozen_Desert_EnviroSpecular.tex.nasset"
+    },
+    "7b49b4fd-750b-5f22-d197-1446eb1e4c5c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Pressure_Plate.scene.nasset/Pressure_Plate.scene.nasset"
     },
     "7bc684bd-375f-29af-0e6c-80a31f68055c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -694,6 +1841,49 @@
         "thumbnail": "7b69cc48-896f-074d-5d1d-43b212805d48",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "7bffb9fe-2051-43ce-2ee7-5f3e4973bc0a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Spiral_Blue.scene.nasset/Spawn_Spiral_Blue.scene.nasset"
+    },
+    "7c2a7eae-22c7-44d4-1767-c1648c748a80": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking Ball.mesh.nasset/Wrecking Ball Red 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0db08a90-3da3-271a-ceec-a0a13cfd8d0a"
+        ]
+    },
+    "7c51a2be-005c-c981-8a51-b55c6d88defa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Spiral_Blue.scene.nasset/Spawn Spiral Blue.mesh.nasset/Spawn Spiral Blue.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5762a8a2-94d0-54f1-dbbb-b4c57972a45b",
+            "6429996e-5da9-ffa8-531c-0e25d4d10582",
+            "1463b21a-5095-5054-a70b-24916cde40c6",
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98",
+            "641ea2a2-e7cb-1ebb-a38c-1d37f6056baa",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "7d15285c-7d5b-0a60-0bcb-3bc9d8036a5c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Treasure_Base.scene.nasset/Treasure Base.mesh.nasset/Treasure Base Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
         ]
     },
     "7d24bf88-7401-3faa-8ecd-0d24d9457f63": {
@@ -704,9 +1894,47 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Blocky_Desert_EnviroSpecular.tex.nasset"
     },
+    "7decb1af-dfd5-ca62-23f5-d0c2090a8956": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spinning_Walls.scene.nasset/Spinning Walls.mesh.nasset/Spinning Walls Blue 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b79422fd-7233-dc08-4236-66dcb789d70f"
+        ]
+    },
     "7dfa4ea5-65d0-ea94-0d52-b0a2b02c9592": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Sky 800.mtli.nasset.tex.nasset"
+    },
+    "8181cb2d-8a33-eec0-c5c3-b215750c4d89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spinning_Walls.scene.nasset/Spinning Walls.mesh.nasset/Spinning Walls.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a5af67fa-3c7c-a75b-7c7e-e167514e80f4",
+            "28fa271c-9d4b-63e5-c29b-29c7847b6d4a",
+            "b6940014-fc62-b95d-2d8a-1b6118e79431",
+            "36909929-051b-edea-fc02-604987ba8e6c",
+            "7decb1af-dfd5-ca62-23f5-d0c2090a8956",
+            "b79422fd-7233-dc08-4236-66dcb789d70f"
+        ]
+    },
+    "81a60508-32d4-7f51-23b4-b61bec4dc8b7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Blue.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Cyan 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
     },
     "81da280d-6f28-76cb-92b8-a83f6ca8fa7c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -723,9 +1951,47 @@
             "542b9838-0569-134e-3c65-a715d200200a"
         ]
     },
+    "860c63d8-8171-ea2d-313a-7f516b71d2f6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Red.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Rose Alpha Grad.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "556b794f-2fa9-97ba-ed15-5178aa1dfe19"
+        ]
+    },
+    "871d50b1-f24e-4654-03d0-a11e889d4a6d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fence_Spline.scene.nasset/Fence Spline.mesh.nasset/Fence Spline Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "8756ada3-be05-f4d7-25c3-510b493b1cce": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Cyan 600.mtli.nasset.tex.nasset"
+    },
+    "87944a9b-59d0-a833-0f90-6e93bdbfc794": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Treasure_Base.scene.nasset/Treasure_Base.scene.nasset"
+    },
+    "88bd83aa-e33d-4132-0f56-b2b61d525530": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Thruster_Blades.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
     },
     "897faaf5-5a82-be8c-7287-3ffb33e878a0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -735,6 +2001,79 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Cyan 700.mtli.nasset.tex.nasset"
     },
+    "8a78fa3d-9c07-2317-5f9d-01d18fee011f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Lever_Handle.scene.nasset/Lever_Handle.scene.nasset"
+    },
+    "8ab3b4b3-577e-cf0b-631a-edb1c8feb8de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.mesh.nasset/Cog Purple 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6"
+        ]
+    },
+    "8b09c5cf-8011-76b2-60ee-ba05d4da5b94": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrier_01.scene.nasset/Barrier_01.scene.nasset"
+    },
+    "8be32867-8844-f45e-ef51-29756d35af80": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Crate.scene.nasset/Crate.mesh.nasset/Crate.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a2dd35cc-5abf-8958-6da8-e6121ecab5f3",
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59",
+            "e0cc8323-8811-c6f2-0204-60338939d522",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "8d438b91-9943-6c04-e00b-b9ead87345ff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrel.scene.nasset/Barrel.mesh.nasset/Barrel Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "8d9cc728-c506-cb7d-5a48-88a01a28f91b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Stripe_Paddle_Post.scene.nasset/Stripe Paddle Post.mesh.nasset/Stripe Paddle Post Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "8f311887-e4fa-9afc-91eb-eebe0661df92": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Treasure_Lid.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "500c048d-297f-0991-3778-fc55a1a0bf61",
+            "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41",
+            "d8cd6e6d-f000-dea0-2247-a6858ba65c0a",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "eb8f8443-196b-75cb-0326-deee756cb9d0",
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
+        ]
+    },
     "8f62c4a6-72f0-6a8e-fc21-06f6958d371f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Volcanoes_EnviroDiffuse.tex.nasset"
@@ -743,12 +2082,63 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Eyeball_EnviroSpecular.tex.nasset"
     },
+    "90a507a0-6a2e-42f9-0ee1-c91e05dcaebf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fan_Blade.scene.nasset/Fan_Blade.scene.nasset"
+    },
+    "912fd1ad-3d6b-ce65-94cc-99d1e2d631de": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Arm.scene.nasset/Scale_Arm.scene.nasset"
+    },
+    "921c77d8-6f3a-3315-f216-e549aba2ab1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Lever_Handle.scene.nasset/Lever Handle.mesh.nasset/Lever Handle.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e281dd74-f153-075f-2845-d794e30c8750",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca",
+            "5fb1f0d6-820c-9799-76b4-5af68fb688d2",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "924bf0a1-4a23-276c-ae48-d7ceb5db407f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Object_Spawner.scene.nasset/Object Spawner.mesh.nasset/Object Spawner.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "ddae0d67-b740-37eb-ab9c-cd04c11cd81a",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "ccb4d011-6518-7d41-c5bd-7d8ea9ac6f97",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan 600.mtli.nasset",
-        "thumbnail": "8756ada3-be05-f4d7-25c3-510b493b1cce",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "92cd51d5-4460-f1b6-61b1-5b3cafd0b171": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Thruster_Blades.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "88bd83aa-e33d-4132-0f56-b2b61d525530",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f",
+            "e901688c-2150-d720-4d69-d37fe25c616d",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
         ]
     },
     "947e10b1-4fe7-18a6-10ae-06eb8340b784": {
@@ -778,6 +2168,38 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Striped Pink.mtli.nasset.tex.nasset"
     },
+    "956fafbb-e8fd-b342-a8b1-9739bb27706d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Hammer.scene.nasset/Obstacle_Hammer.scene.nasset"
+    },
+    "95a28066-261b-2622-4348-7548e9b23bdc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Red.scene.nasset/Spawn Red.mesh.nasset/Spawn Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a0d6d431-f67a-5ae6-787d-cfa1e0d9ae78",
+            "6429996e-5da9-ffa8-531c-0e25d4d10582",
+            "4a86fce2-0410-34cc-2428-1ba50c4cb4bb",
+            "f2048507-a43e-302d-1661-622b8c8dea77",
+            "860c63d8-8171-ea2d-313a-7f516b71d2f6",
+            "556b794f-2fa9-97ba-ed15-5178aa1dfe19"
+        ]
+    },
+    "9623f147-529b-10ba-b425-a8549706d984": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Seesaw_Plank.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "9654aa45-2362-0575-d221-5c6dfc6349d4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -792,6 +2214,11 @@
     "96760a96-67df-bd9f-5c59-739f1c176d2b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Blue 600.mtli.nasset.tex.nasset"
+    },
+    "968089e9-65d4-6e84-f98d-b3fc280c1f96": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Crate.scene.nasset/Crate.scene.nasset"
     },
     "9684f23e-c22b-36da-db4e-9cd80cfcfeab": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -810,9 +2237,42 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Space_Empty_EnviroDiffuse.tex.nasset"
     },
+    "98672895-5c05-7dcc-0bcf-ea2473f851bf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrier_03.scene.nasset/Barrier 03.mesh.nasset/Barrier 03 Purple 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0bbd1c04-c4ba-34c7-b673-1229979410c6"
+        ]
+    },
+    "991386ab-0dc7-4695-2ca9-f6c1c579a9d7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking Ball.mesh.nasset/Wrecking Ball Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11160dfe-7038-a8ac-4565-5247ce636cea"
+        ]
+    },
     "9b0bf7e2-85ca-895f-dfc9-976b72e80b9e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Yellow 500.mtli.nasset.tex.nasset"
+    },
+    "9b1ada42-a29a-69d3-e2e7-3f18b9b09798": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spike_Ball.scene.nasset/Spike Ball.mesh.nasset/Spike Ball Rose 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f8719f47-bf2c-f96b-fae1-3f0b7111f416"
+        ]
     },
     "9c03f5d7-4261-1dfd-126c-1478291765ae": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -821,9 +2281,27 @@
     "9d046a14-c9c0-285b-0ab5-97f3c991579c": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blue 800.mtli.nasset",
-        "thumbnail": "9c03f5d7-4261-1dfd-126c-1478291765ae",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "9d475c59-8c41-50e3-f25e-49d35ea42f94": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Pillow.scene.nasset/Pillow.scene.nasset"
+    },
+    "9d99afce-b300-6d90-9de6-e3cabf53dbe7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Trigger_Button.scene.nasset/Trigger Button.mesh.nasset/Trigger Button.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "53bbc17f-2ac8-d101-9e52-36338bec181a",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "320e7e38-92d2-d092-8705-323ff17a1d17",
+            "628404dc-5a41-08de-461a-e4d0ac100c20"
         ]
     },
     "9e2bdf4b-6d8c-a76a-e37a-3431d00325cf": {
@@ -841,21 +2319,159 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Lime 800.mtli.nasset.tex.nasset"
     },
+    "9ed1e512-7062-8c01-87df-5862cc7605a4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Small.scene.nasset/Step_Small.scene.nasset"
+    },
+    "a0d6d431-f67a-5ae6-787d-cfa1e0d9ae78": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Red.scene.nasset/Spawn Red.mesh.nasset/Spawn Red Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6429996e-5da9-ffa8-531c-0e25d4d10582"
+        ]
+    },
+    "a2dd35cc-5abf-8958-6da8-e6121ecab5f3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Crate.scene.nasset/Crate.mesh.nasset/Crate Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
+    },
+    "a3af5198-2fc3-d6e8-3e0d-81ffeb9af3a1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking Rope.mesh.nasset/Wrecking Rope Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
+    },
+    "a40af8ca-0af9-ca4c-169d-c8b66933912a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Torus.scene.nasset/Torus.mesh.nasset",
+        "dependencies": [
+            "4f20a443-bb58-8aac-46ef-88fbc8d132a1"
+        ]
+    },
+    "a4b36599-768a-f14d-4c89-c180aee7a0da": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Small.scene.nasset/Step Small.mesh.nasset/Step Small Blue 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9d046a14-c9c0-285b-0ab5-97f3c991579c"
+        ]
+    },
     "a4c990ab-a4ee-af3d-a7f3-b5285cd168bb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Yellow_Mountain_EnviroSpecular.tex.nasset"
     },
+    "a4cafcaa-731f-588a-5a76-4261166c972c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Hammer.scene.nasset/Obstacle Hammer.mesh.nasset/Obstacle Hammer.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2c2bfade-f1b3-6c91-47e2-1a57c46ec265",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "431ddf91-b632-e423-3552-d899a33465e6",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "a5029dee-3c2b-2aa8-58b6-beed81ee2a13": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spiral.scene.nasset/Spiral.mesh.nasset/Spiral Teal 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "385e5910-9188-5a65-dd3f-3d4009e0fd77"
+        ]
+    },
     "a54fe4c5-288a-adfd-700d-4a14b8879fbc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Orange 500.mtli.nasset",
-        "thumbnail": "afd3adcb-b0e4-d24a-445d-0680867eb288",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "a5af67fa-3c7c-a75b-7c7e-e167514e80f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spinning_Walls.scene.nasset/Spinning Walls.mesh.nasset/Spinning Walls Yellow 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "28fa271c-9d4b-63e5-c29b-29c7847b6d4a"
+        ]
+    },
+    "a60225a4-e565-01d1-a3b4-53a498a39b87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Ring_Hoop.scene.nasset/Ring Hoop.mesh.nasset/Ring Hoop Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb"
         ]
     },
     "a68fe2be-92cd-f2c0-26ad-f3f8ab5c9dcc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Cityscape_EnviroSpecular.tex.nasset"
+    },
+    "a7442284-c756-67df-f535-62a12a4c0b74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "a7a45770-c713-2362-cd4d-be75f35f8c49": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Step_Large.scene.nasset/Step Large.mesh.nasset/Step Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "dba75556-1995-1b5a-e89b-afc28902b608",
+            "38421120-a50a-4281-d861-2cd1871b1ba7",
+            "b206278d-caab-c276-e1e1-712c33825e54",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "a7dd5205-7237-77a2-fd74-3f3adf432456": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Treasure_Lid.scene.nasset/Treasure_Lid.scene.nasset"
+    },
+    "a88b1d05-3539-2dd1-679f-1c288839ef8b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrier_02.scene.nasset/Barrier_02.scene.nasset"
     },
     "a9037337-0a25-cf40-8b24-73337d3ade14": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -865,14 +2481,35 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Farmland_EnviroSpecular.tex.nasset"
     },
+    "a95b02dc-0e03-b209-71c4-d7574bd8bc43": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fence_Spline.scene.nasset/Fence Spline.mesh.nasset/Fence Spline Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "aac31c4e-4e0a-b17f-9073-024e49c3f137": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Winter_EnviroDiffuse.tex.nasset"
     },
+    "ab3905cb-e82e-5567-ccbb-3f993709b20f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Palette.scene.nasset/Palette.mesh.nasset/Palette Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "ab4a4769-3279-0184-6c9d-8510c2f666f6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Striped Pink.mtli.nasset",
-        "thumbnail": "9511d02c-4818-8559-2ce5-d42f2905fbad",
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "c3af96ae-2976-0783-8f54-1c1a17c2d997"
@@ -886,9 +2523,28 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Dunes_Orange_Enviro.tex.nasset"
     },
+    "ac2ff35b-16d9-899a-b6fc-b769a01d459a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Ring_Hoop.scene.nasset/Ring Hoop.mesh.nasset/Ring Hoop.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a60225a4-e565-01d1-a3b4-53a498a39b87",
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb",
+            "69bc9777-c72c-663f-87e3-cbba3e0d2917",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "ade1cc12-6aee-3df9-169b-7e82fbbf1e95": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Purple 600.mtli.nasset.tex.nasset"
+    },
+    "ade835f0-a8b0-6d32-1b71-dfbb76f0dfdf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Seesaw_Base.scene.nasset/Seesaw_Base.scene.nasset"
     },
     "aee0b5d9-3053-f871-1dae-a0c91caf423a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -897,6 +2553,30 @@
     "afd3adcb-b0e4-d24a-445d-0680867eb288": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Orange 500.mtli.nasset.tex.nasset"
+    },
+    "afde52d6-294a-0d73-c17d-07140b7dda65": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Balloon.scene.nasset/Balloon.mesh.nasset",
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "b05326bf-6ef8-a2e7-7bad-90841b8eee3b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Seesaw_Plank.scene.nasset/Seesaw Plank.mesh.nasset/Seesaw Plank.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "54e8f933-79e1-1047-fa10-673dd5d60e9f",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc",
+            "9623f147-529b-10ba-b425-a8549706d984",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "4aef0103-5f4d-6e5c-a8e3-6b140b47c752",
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
     },
     "b0b138e8-4a6c-022c-62d1-066123c35976": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -910,6 +2590,57 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b11a7af4-061f-194f-ed2a-f889509b2891": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Medium.scene.nasset/Step Medium.mesh.nasset/Step Medium Violet 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f9e40cd5-7715-0082-9534-4932eb3c26b2"
+        ]
+    },
+    "b1426643-f933-f856-b83a-934b8b2044d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Center.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "b7ec43ec-732e-e706-04e9-225f9797a022",
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd",
+            "e057983d-ae83-78c9-5492-ebb2844649df",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
+    },
+    "b206278d-caab-c276-e1e1-712c33825e54": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Large.scene.nasset/Step Large.mesh.nasset/Step Large Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "b268bd9d-b0fc-4be3-e173-954e2d6ba34f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Saw.scene.nasset/Saw.scene.nasset"
+    },
+    "b34dfae9-38e5-a4d1-fade-3387fd6ac32f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Thruster_Housing.scene.nasset/Thruster_Housing.scene.nasset"
+    },
+    "b3897079-e655-395f-db73-f92e90847a23": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Barrier_03.scene.nasset/Barrier_03.scene.nasset"
+    },
     "b3bbc38b-3253-48f4-bced-88c46d6314b5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Northern_Lights_EnviroDiffuse.tex.nasset"
@@ -917,6 +2648,20 @@
     "b3bc550c-9a38-7b02-c030-b253907ce319": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pink 500.mtli.nasset.tex.nasset"
+    },
+    "b3c615c1-8f2e-3405-5024-d3769387fa91": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Magnet.scene.nasset/Magnet.mesh.nasset/Magnet.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2d8f79aa-4460-3fb5-2faf-c8277d670d23",
+            "b402be4f-bd8e-9c4e-8767-44e6ab062ab2",
+            "bd88939a-40b6-8780-9b5b-4cd4e8f92d53",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
     },
     "b416441f-d5a3-8152-61b1-6af93d85d2e1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -940,20 +2685,96 @@
             "063c581e-eecf-7a1e-58e1-b3aa2ce6047b"
         ]
     },
+    "b64fdabd-2c27-40bb-6400-1dc4e8408eb6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking Rope.mesh.nasset/Wrecking Rope Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "b6940014-fc62-b95d-2d8a-1b6118e79431": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spinning_Walls.scene.nasset/Spinning Walls.mesh.nasset/Spinning Walls Purple 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "36909929-051b-edea-fc02-604987ba8e6c"
+        ]
+    },
+    "b765e8f1-0e33-980b-824b-55273f857974": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Object_Spawner.scene.nasset/Object_Spawner.scene.nasset"
+    },
     "b79422fd-7233-dc08-4236-66dcb789d70f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Blue 600.mtli.nasset",
-        "thumbnail": "96760a96-67df-bd9f-5c59-739f1c176d2b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b7d52d8c-3c1f-0976-70bf-ec10f55cf157": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Stripe_Paddle_Post.scene.nasset/Stripe Paddle Post.mesh.nasset/Stripe Paddle Post.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8d9cc728-c506-cb7d-5a48-88a01a28f91b",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "6ffcaddc-1317-fe54-4c5f-0c4049001ff8",
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
+    },
+    "b7e8a0e4-0a60-cd39-f5fd-b87fc3dc5f19": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.mesh.nasset/Cannon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e2bf64d2-6695-b2ee-ee1c-bb6de316bc31",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc",
+            "34b38840-bca1-8b68-5541-6bfcf21d5891",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "dda061ed-9904-0fbd-8d17-8cf341823716",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "2f6ab49a-3135-0c52-7e1e-5b98d90db7c8",
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
+    },
+    "b7ec43ec-732e-e706-04e9-225f9797a022": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Center.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
         ]
     },
     "b84b332a-ef41-aa0e-f83a-6badec9d1635": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sky 800.mtli.nasset",
-        "thumbnail": "7dfa4ea5-65d0-ea94-0d52-b0a2b02c9592",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "b862caaf-c157-36b4-fdc7-47f652df625b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Pressure_Plate.scene.nasset/Pressure_Plate.mesh.nasset",
+        "dependencies": [
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
         ]
     },
     "b883d3f5-ce00-cbf2-94a4-6de3d96b2a6d": {
@@ -968,6 +2789,30 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Neon_Tents_Enviro.tex.nasset"
     },
+    "ba508ad8-1c15-1683-0792-b1875f835eb5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Palette.scene.nasset/Palette.scene.nasset"
+    },
+    "bb1f97b8-ac13-2070-cd4e-59f38c0407f1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Trigger_Base.scene.nasset/Trigger Base.mesh.nasset/Trigger Base Cyan 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "628404dc-5a41-08de-461a-e4d0ac100c20"
+        ]
+    },
+    "bb7811d6-546f-fb52-2f97-b5a54b049762": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Connector.scene.nasset/Scale_Connector.mesh.nasset",
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
     "bb7e7f5b-b87f-1233-f9e0-bcdbf17e3f2d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Purple 700.mtli.nasset.tex.nasset"
@@ -976,6 +2821,22 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Mechanics/Thumbnails/FinishFlag.scene.nasset.tex.nasset"
     },
+    "bd88939a-40b6-8780-9b5b-4cd4e8f92d53": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Magnet.scene.nasset/Magnet.mesh.nasset/Magnet Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "be197cf4-0115-8ba1-4214-1fba78118d0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Balloon.scene.nasset/Balloon.scene.nasset"
+    },
     "be368453-40ab-0a08-df09-7b9918be781f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Frozen_Forest_EnviroSpecular.tex.nasset"
@@ -983,9 +2844,27 @@
     "becf4504-e893-6639-37e3-07e6b7289e11": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Cyan 500.mtli.nasset",
-        "thumbnail": "fba04bac-ddd3-5217-6abd-896396c03523",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "bf1e5760-9649-3766-cfed-351a97e5f2c2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Cog.scene.nasset/Cog.scene.nasset"
+    },
+    "bf6b7f60-1a97-c9fc-80f1-c3a13d7ff7fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Small.scene.nasset/Obstacle Pole Small.mesh.nasset/Obstacle Pole Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5e2ab644-867c-3070-39b7-a0f9436ee06c",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "510acedf-1644-5728-7f3b-172be414f3f8",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
         ]
     },
     "bfe16931-6039-db2b-ed4f-f5daf506f1d9": {
@@ -995,6 +2874,20 @@
     "c00386bf-5ac7-b910-80c2-ad8e65b5feaa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pink 700.mtli.nasset.tex.nasset"
+    },
+    "c1a6f7a8-3607-bcd7-49df-70bb443b24a5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Crate_02.scene.nasset/Crate 02.mesh.nasset/Crate 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "c647afc6-c8c4-5ebb-2ae2-0de63b912c72",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "581ccb1b-0fa0-dfdb-7e0c-3821674abf22",
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
     },
     "c21a5b84-75e5-fb0e-b76b-395d248c68db": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1020,15 +2913,47 @@
     "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Purple 500.mtli.nasset",
-        "thumbnail": "0ce5a50c-01a9-c86c-d4f7-29d8d14b49fd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "c3af96ae-2976-0783-8f54-1c1a17c2d997": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Textures/T_Striped_Lines_D.tex.nasset"
+    },
+    "c3e78501-4d10-4e9e-08a7-cae0dbf160fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Pillar.scene.nasset/Pillar.scene.nasset"
+    },
+    "c40203ae-9f3e-67a0-2ef7-6b773f4b0b66": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Palette.scene.nasset/Palette.mesh.nasset/Palette Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "c476428e-baae-6f15-e9df-86b8ca389b64": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Treasure_Base.scene.nasset/Treasure Base.mesh.nasset/Treasure Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5e86d200-7eb6-64f4-ef90-44044603c012",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "7d15285c-7d5b-0a60-0bcb-3bc9d8036a5c",
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
         ]
     },
     "c5074e91-b874-ac26-62e9-9ceab4f4407d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Orange 600.mtli.nasset",
-        "thumbnail": "b89a5e8b-fbdf-eb02-ad4c-440347c4c123",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1036,6 +2961,45 @@
     "c557ab73-2688-61c8-780f-5654551a2143": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Pink 600.mtli.nasset.tex.nasset"
+    },
+    "c5958b3f-aaf9-e3a9-a324-f8eb233943ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spawn_Spiral_Red.scene.nasset/Spawn Spiral Red.mesh.nasset/Spawn Spiral Red.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2a7cd3ce-4d8e-fae3-905b-009a572601a0",
+            "6429996e-5da9-ffa8-531c-0e25d4d10582",
+            "7a3c9ef8-38f3-4828-5607-f2de277ba161",
+            "f2048507-a43e-302d-1661-622b8c8dea77"
+        ]
+    },
+    "c640feb3-2032-0e9c-9990-f2bf9a5e1276": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Battery_Large.scene.nasset/Battery Large.mesh.nasset/Battery Large.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "364296e0-57d2-6ba5-8a3f-34ccd553da95",
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb",
+            "fafa7352-fcba-d033-3c31-3edf51d23c29",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "c647afc6-c8c4-5ebb-2ae2-0de63b912c72": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Crate_02.scene.nasset/Crate 02.mesh.nasset/Crate 02 Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
     },
     "c8aa53db-aec9-4ca9-e08e-9a168f0a0699": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1061,6 +3025,73 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c9bcacc2-e648-9f02-aa5c-40c9185c26b8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "ccaccd0d-6153-4d61-150d-f5b8738b4b54": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cube_Rounded.scene.nasset/Cube_Rounded.mesh.nasset",
+        "dependencies": [
+            "6429996e-5da9-ffa8-531c-0e25d4d10582"
+        ]
+    },
+    "ccb4d011-6518-7d41-c5bd-7d8ea9ac6f97": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Object_Spawner.scene.nasset/Object Spawner.mesh.nasset/Object Spawner Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "ccff4647-d016-b7ea-cab0-a3b9ac8a8fde": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Thruster_Housing.scene.nasset/Thruster Housing.mesh.nasset/Thruster Housing.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4fe87548-f87d-7c50-c463-9b962bc646d4",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "429ae5bb-8bf5-cdd6-0fbb-3d75f7779fb1",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "48844a9b-fd97-0805-9b19-7aa4361fefef",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "cdee8042-405f-5aa1-276d-e978cb34bb98": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Trigger_Base.scene.nasset/Trigger_Base.scene.nasset"
+    },
+    "ce2d8cd8-c2e4-fefd-bc71-e9c651b4f354": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Legs.scene.nasset/Scale Legs.mesh.nasset/Scale Legs.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "260bdc1f-8163-4b10-6fe1-c1b86719f4ec",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc",
+            "72f02303-73d9-27ea-028a-a6059750d1f8",
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca",
+            "f42fc7ae-1172-dbd1-c1db-3da3557e91b1",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "cf1366c3-5b59-e8bd-e488-4b1c8ab7c4cb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1072,6 +3103,17 @@
             "0bbd1c04-c4ba-34c7-b673-1229979410c6"
         ]
     },
+    "cfeb72dd-87c5-3854-cecc-1fd3447893b2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Battery.scene.nasset/Battery.mesh.nasset/Battery Sky 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5802ad6a-57ca-9509-68b7-ca5b6d7938bb"
+        ]
+    },
     "d02fbe2a-3873-5677-1bde-d4c167a14f90": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Mars_Enviro.tex.nasset"
@@ -1079,6 +3121,17 @@
     "d0ea23d2-a19d-9e54-6b09-1410615495fa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Forest_Town_Night_EnviroSpecular.tex.nasset"
+    },
+    "d104656d-cab4-ef4b-15a1-8299e8ffcfc6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
     },
     "d147b162-eaaa-d606-f6d3-513065e43b25": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1088,6 +3141,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Teal 600.mtli.nasset.tex.nasset"
     },
+    "d43c1213-b504-c153-f167-6e26badf6f6e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Cube_Rounded.scene.nasset/Cube_Rounded.scene.nasset"
+    },
     "d4a5b1a8-ce38-7f9b-66cb-c1b656118bd1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Farmland_Blocky_EnviroDiffuse.tex.nasset"
@@ -1095,14 +3153,39 @@
     "d5efddc9-132b-ba57-fad5-8911c198a204": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gray 600.mtli.nasset",
-        "thumbnail": "f6b27e91-4334-a6bd-38f0-5aaec40da4ae",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d6860df1-be72-8132-619c-06fdcb336cb1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Ring_Cyan.scene.nasset/Ring_Cyan.mesh.nasset",
+        "dependencies": [
+            "b79422fd-7233-dc08-4236-66dcb789d70f"
         ]
     },
     "d6fbcfda-9655-1ffc-047f-8bcef0034f3a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Winter_Enviro.tex.nasset"
+    },
+    "d73a602e-e890-3b15-2e64-2207dcae3630": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Wrecking_Ball.scene.nasset/Wrecking Ball.mesh.nasset/Wrecking Ball.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "6f1ed353-d447-0035-f8b2-231238ea033a",
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59",
+            "991386ab-0dc7-4695-2ca9-f6c1c579a9d7",
+            "11160dfe-7038-a8ac-4565-5247ce636cea",
+            "7c2a7eae-22c7-44d4-1767-c1648c748a80",
+            "0db08a90-3da3-271a-ceec-a0a13cfd8d0a",
+            "2bda3a45-b895-8c98-5163-81bc64921a7f",
+            "d82ca461-21be-d94c-ea03-1584affb1743"
+        ]
     },
     "d80fe444-ac6e-90fd-76f8-80d0c53be583": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1111,18 +3194,96 @@
     "d82ca461-21be-d94c-ea03-1584affb1743": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Fuschia 600.mtli.nasset",
-        "thumbnail": "5d60bdb6-9661-d03e-29c5-9e2fb5112f7b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "d8cd6e6d-f000-dea0-2247-a6858ba65c0a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Treasure_Lid.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "da758169-2b1e-44b2-9420-f4837712e726": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spiral.scene.nasset/Spiral.mesh.nasset/Spiral Yellow 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "28fa271c-9d4b-63e5-c29b-29c7847b6d4a"
         ]
     },
     "da8871be-1c17-9d26-079e-ca7cfccce504": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Neon_Tents_EnviroSpecular.tex.nasset"
     },
+    "db12b506-9af7-93df-1493-b231d72a145c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Arm.scene.nasset/Scale Arm.mesh.nasset/Scale Arm Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "db598efd-1f20-2b8a-427b-7c95079a4ca8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Arm.scene.nasset/Scale Arm.mesh.nasset/Scale Arm Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "db685983-c164-b2a2-ff26-f19d68dd4313": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Frozen_Desert_Enviro.tex.nasset"
+    },
+    "dba75556-1995-1b5a-e89b-afc28902b608": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Step_Large.scene.nasset/Step Large.mesh.nasset/Step Large Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
+    },
+    "dbd544cf-fd6b-f115-a573-6f078088b630": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Seesaw_Base.scene.nasset/Seesaw Base.mesh.nasset/Seesaw Base.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "62fd47a0-56b0-b494-be38-3aecdc04c314",
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc",
+            "3ff4bdc4-dff2-ea58-b5f2-8be94365223e",
+            "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6"
+        ]
+    },
+    "dc29c4c2-ce3c-d87f-26af-6b2de50bd711": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spiral.scene.nasset/Spiral.scene.nasset"
+    },
+    "dc7f2192-00e5-0e9d-cd40-8d670985af8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Torus.scene.nasset/Torus.scene.nasset"
     },
     "dc851266-7a5b-12c0-7b7b-e981053b93c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1135,9 +3296,199 @@
             "c3320f2c-ee9f-d59b-fc8d-2dc694c5c7f6"
         ]
     },
+    "dd0967c1-75e0-be1e-c6df-612480bfde7d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Barrier_02.scene.nasset/Barrier 02.mesh.nasset/Barrier 02 Lime 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3a982a3d-bcdc-3576-374e-7d60ff7d97cb"
+        ]
+    },
+    "dd2951bb-fa92-223d-ae0f-a6e473a98a29": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Saw.scene.nasset/Saw.mesh.nasset/Saw Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "dd2e533e-ca89-a153-44c9-9f874f36f2f4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Arm.scene.nasset/Scale Arm.mesh.nasset/Scale Arm Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "dda061ed-9904-0fbd-8d17-8cf341823716": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.mesh.nasset/Cannon Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "ddae0d67-b740-37eb-ab9c-cd04c11cd81a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Object_Spawner.scene.nasset/Object Spawner.mesh.nasset/Object Spawner Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
     "dea71b24-2961-d130-9992-1915118a7783": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Farmland_Blocky_Enviro.tex.nasset"
+    },
+    "df53952c-76e7-ce94-ff7b-8752105eb881": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Connector.scene.nasset/Scale_Connector.scene.nasset"
+    },
+    "e057983d-ae83-78c9-5492-ebb2844649df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Obstacle_Pole_Center.scene.nasset/Obstacle Pole Center.mesh.nasset/Obstacle Pole Center Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
+    },
+    "e0cc8323-8811-c6f2-0204-60338939d522": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Crate.scene.nasset/Crate.mesh.nasset/Crate Cyan 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "e1061f29-d27a-764a-80f9-d8cd6bdb8fb4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Battery.scene.nasset/Battery.mesh.nasset/Battery Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "e18af616-7477-52f4-f7ab-92e2c32726d4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fence_Spline.scene.nasset/Fence_Spline.scene.nasset"
+    },
+    "e281dd74-f153-075f-2845-d794e30c8750": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Handle.scene.nasset/Lever Handle.mesh.nasset/Lever Handle Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "e283b5f9-3217-1303-08ae-cc89bc8b724e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Stripe_Paddle.scene.nasset/Stripe Paddle.mesh.nasset/Stripe Paddle Pink 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4bf6f5df-b308-c238-f52d-f1e83baa1a59"
+        ]
+    },
+    "e297582a-6bdf-ef93-9120-1dc23b582acc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Scale_Legs.scene.nasset/Scale_Legs.scene.nasset"
+    },
+    "e2bf64d2-6695-b2ee-ee1c-bb6de316bc31": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.mesh.nasset/Cannon Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
+    "e332da85-99cd-4f40-edf7-6239aaa30fbd": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Target.scene.nasset/Target.mesh.nasset/Target Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
+    },
+    "e3b451cd-9243-1e73-ddd2-64fc1ddd537a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking Rope.mesh.nasset/Wrecking Rope Pink 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "38421120-a50a-4281-d861-2cd1871b1ba7"
+        ]
+    },
+    "e3e30cc1-ffa6-d9aa-676f-da4d88f80c16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Ring_Cyan.scene.nasset/Ring_Cyan.scene.nasset"
+    },
+    "e4da862e-4041-e80c-41c6-347c46661515": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Wrecking_Rope.scene.nasset/Wrecking_Rope.scene.nasset"
+    },
+    "e4e1be11-8620-eeeb-4921-e553d8787e33": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever Base.mesh.nasset/Lever Base Green 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "08dfe929-68f1-a6f6-e65f-3ffacad47177"
+        ]
+    },
+    "e57303de-f8cb-3dff-aecd-c2d695d70119": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Launchpad.scene.nasset/Launchpad.mesh.nasset/Launchpad Pink 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2bdd0109-4f8c-7263-9b8a-afd7c5fbde41"
+        ]
     },
     "e6e5427e-5164-4021-ad8f-3e17a06e0ea5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1146,6 +3497,27 @@
     "e70d38d6-ac33-4f28-ae95-32277024c796": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Fantasy_Town_Enviro.tex.nasset"
+    },
+    "e7c858fd-98a9-7fea-4818-5750fa0d25ca": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Cannon.scene.nasset/Cannon.scene.nasset"
+    },
+    "e901688c-2150-d720-4d69-d37fe25c616d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Thruster_Blades.scene.nasset/Thruster Blades.mesh.nasset/Thruster Blades Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9e799cd1-760f-bbb5-f4f1-bdd23b3584ca"
+        ]
+    },
+    "e9666dcc-b7ae-9c36-4555-3dd650975180": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Chain_Link.scene.nasset/Chain_Link.scene.nasset"
     },
     "e999c213-26d7-4752-9e3f-6572a9b572f4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1163,10 +3535,58 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Northern_Lights_EnviroSpecular.tex.nasset"
     },
+    "eb8f8443-196b-75cb-0326-deee756cb9d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Treasure_Lid.scene.nasset/Treasure Lid.mesh.nasset/Treasure Lid Yellow 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd"
+        ]
+    },
+    "ebdb430a-4710-6673-9d6a-d790380f2a92": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Seesaw_Plank.scene.nasset/Seesaw_Plank.scene.nasset"
+    },
+    "ec4b5189-faa6-8700-7754-44f484ecbcd4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spinning_Walls.scene.nasset/Spinning_Walls.scene.nasset"
+    },
+    "eca43f25-bbc9-2b52-9977-130b54465859": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Target.scene.nasset/Target.mesh.nasset/Target.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e332da85-99cd-4f40-edf7-6239aaa30fbd",
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f",
+            "65d856a6-6f7c-bedd-a7ff-ec86030fbb3a",
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "f05331d5-ccd7-23c1-a357-90f581ca2ebc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fan.scene.nasset/Fan.mesh.nasset/Fan.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "724da8b0-9b69-ee1e-87e4-1bfb8cacd2f0",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca",
+            "630621f1-ef93-718e-1f43-bdc36abc9cfe",
+            "92b2fc4d-e6fc-9a5d-af38-146dc6f73f98"
+        ]
+    },
     "f2048507-a43e-302d-1661-622b8c8dea77": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rose 600.mtli.nasset",
-        "thumbnail": "600d2bca-a7f3-bc98-cca8-7c5ab7928814",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1192,18 +3612,62 @@
     "f27c48a7-cf28-0b66-e510-c43a7573a612": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Emerald 600.mtli.nasset",
-        "thumbnail": "131d7187-5d85-0cfb-2399-d7c5998cf6e2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "f42fc7ae-1172-dbd1-c1db-3da3557e91b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Legs.scene.nasset/Scale Legs.mesh.nasset/Scale Legs Green 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "f4944a40-2fe4-bef9-ada8-7a5991836aaf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Obstacle_Pole_Small.scene.nasset/Obstacle_Pole_Small.scene.nasset"
     },
     "f50ca893-36b8-0490-54be-85918477bc40": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Indigo 700.mtli.nasset.tex.nasset"
     },
+    "f5354be3-d463-19db-d5ff-ba21f2badee6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Target.scene.nasset/Target.scene.nasset"
+    },
     "f542c5e6-4c1e-b977-43bb-07eeaab1cf69": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Purple_Stars_EnviroSpecular.tex.nasset"
+    },
+    "f56ee054-cf65-262a-a54a-aa3f137efcf5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Scale_Palette.scene.nasset/Scale Palette.mesh.nasset/Scale Palette Gray 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f"
+        ]
+    },
+    "f5c8bea8-4803-901c-1a1d-19a0f2cbed18": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Spike_Ball.scene.nasset/Spike_Ball.scene.nasset"
+    },
+    "f5c96bc0-5cb6-3ba2-26e0-e68997a62541": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Pillar.scene.nasset/Pillar.mesh.nasset",
+        "dependencies": [
+            "2f6f1dd9-b305-40a7-02b8-99dd84569bc0"
+        ]
     },
     "f6a49598-13c0-32a7-ac2e-71bad80ed913": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1224,10 +3688,53 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Gray 600.mtli.nasset.tex.nasset"
     },
+    "f702417f-0052-4e41-c42f-cbc103681e8e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spawn_Blue.scene.nasset/Spawn Blue.mesh.nasset/Spawn Blue Gray 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6429996e-5da9-ffa8-531c-0e25d4d10582"
+        ]
+    },
+    "f7cf6e21-c771-ce7c-37ae-c0c25cf7e21a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Diamond.scene.nasset/Diamond.mesh.nasset",
+        "dependencies": [
+            "becf4504-e893-6639-37e3-07e6b7289e11"
+        ]
+    },
+    "f80cb170-cf7d-a22c-a449-1e8f37a90b91": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Lever_Base.scene.nasset/Lever Base.mesh.nasset/Lever Base Pink 800.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "3e1ba487-d322-40ab-3faf-9c21bf9fd9ca"
+        ]
+    },
+    "f81a4820-e4a5-325e-52ad-133ffabd33c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Fence_Spline.scene.nasset/Fence Spline.mesh.nasset/Fence Spline.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "871d50b1-f24e-4654-03d0-a11e889d4a6d",
+            "becf4504-e893-6639-37e3-07e6b7289e11",
+            "a95b02dc-0e03-b209-71c4-d7574bd8bc43",
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
     "f8719f47-bf2c-f96b-fae1-3f0b7111f416": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rose 500.mtli.nasset",
-        "thumbnail": "520f79ab-229f-4ecb-e7e0-85a5dbfa9654",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1244,14 +3751,23 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Yellow 600.mtli.nasset.tex.nasset"
     },
+    "f8bf00d0-2a85-68a1-1017-18b38cfbf314": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Ring_Violet.scene.nasset/Ring_Violet.scene.nasset"
+    },
     "f8e988bd-5181-417f-86f6-16e947c2e417": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Above_Clouds_EnviroDiffuse.tex.nasset"
     },
+    "f9b27f71-53cb-d1d7-5b3e-4d0c1013aae8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Trigger_Button.scene.nasset/Trigger_Button.scene.nasset"
+    },
     "f9e40cd5-7715-0082-9534-4932eb3c26b2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Violet 600.mtli.nasset",
-        "thumbnail": "6a6a04f2-fcd0-710f-85c0-c3761a1690f7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1260,10 +3776,20 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Skyboxes/Mars_EnviroDiffuse.tex.nasset"
     },
+    "fafa7352-fcba-d033-3c31-3edf51d23c29": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Battery_Large.scene.nasset/Battery Large.mesh.nasset/Battery Large Orange 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a54fe4c5-288a-adfd-700d-4a14b8879fbc"
+        ]
+    },
     "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gray 500.mtli.nasset",
-        "thumbnail": "1ee4e6f7-ff30-6cc7-76d9-ee39d0305b22",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1272,13 +3798,36 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Cyan 500.mtli.nasset.tex.nasset"
     },
+    "fc2d12ee-cc74-c1bd-960f-e2be011e88c2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Spike_Ball.scene.nasset/Spike Ball.mesh.nasset/Spike Ball Rose 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4f20a443-bb58-8aac-46ef-88fbc8d132a1"
+        ]
+    },
     "fda7fbed-edb2-4fb2-4e2a-e5225bcc0566": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Teal 600.mtli.nasset",
-        "thumbnail": "d335d56f-bcbf-f1b7-60c9-46095eeff01c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "ff257cdf-662d-7066-1ddf-389813721712": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Fence_Post.scene.nasset/Fence_Post.mesh.nasset",
+        "dependencies": [
+            "05eecbbe-e53c-0ff4-6765-e3daf4884dca"
+        ]
+    },
+    "ffcfe817-92c2-0a12-a513-abef24cb9619": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Thruster_Blades.scene.nasset/Thruster_Blades.scene.nasset"
     },
     "guid": "3d5c0ec7-cba9-cb77-306b-497c9a0ac8df"
 }

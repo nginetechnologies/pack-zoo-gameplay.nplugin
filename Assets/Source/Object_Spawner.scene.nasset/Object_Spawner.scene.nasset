@@ -1,0 +1,34 @@
+{
+    "guid": "b765e8f1-0e33-980b-824b-55273f857974",
+    "source": "../Object_Spawner.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0c0e68fe-5179-bb98-0a3c-eb34491d9454",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Object Spawner"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1f3884eb-ae62-3598-ee0c-68560d81b123",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Object Spawner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "924bf0a1-4a23-276c-ae48-d7ceb5db407f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b765e8f1-0e33-980b-824b-55273f857974"
+    },
+    "dependencies": [
+        "924bf0a1-4a23-276c-ae48-d7ceb5db407f"
+    ]
+}

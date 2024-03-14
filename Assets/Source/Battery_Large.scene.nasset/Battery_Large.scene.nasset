@@ -1,0 +1,34 @@
+{
+    "guid": "617e816a-4263-9732-7a27-dd8e73c5b5b6",
+    "source": "../Battery_Large.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "36d974ea-bcd2-f323-3be2-2612e207f93c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Battery Large"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aec21ff9-6707-93cb-ebbb-ee98eb67729c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Battery Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c640feb3-2032-0e9c-9990-f2bf9a5e1276"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "617e816a-4263-9732-7a27-dd8e73c5b5b6"
+    },
+    "dependencies": [
+        "c640feb3-2032-0e9c-9990-f2bf9a5e1276"
+    ]
+}

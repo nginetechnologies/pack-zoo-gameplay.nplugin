@@ -1,0 +1,34 @@
+{
+    "guid": "468c060c-fad1-2ab9-1990-e3c88bfde32d",
+    "source": "../Wrecking_Ball.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "fee0d6b0-2ac3-6733-e791-9da0caebf0e7",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wrecking Ball"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "528e5502-2115-42b9-f081-455f3c902e0b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wrecking Ball"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d73a602e-e890-3b15-2e64-2207dcae3630"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "468c060c-fad1-2ab9-1990-e3c88bfde32d"
+    },
+    "dependencies": [
+        "d73a602e-e890-3b15-2e64-2207dcae3630"
+    ]
+}

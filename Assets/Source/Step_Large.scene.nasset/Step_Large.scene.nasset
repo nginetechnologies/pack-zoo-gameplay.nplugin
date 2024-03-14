@@ -1,0 +1,34 @@
+{
+    "guid": "363ae77e-d188-dcd3-8874-1c5117ed6202",
+    "source": "../Step_Large.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e07a5b8a-0b21-baa8-689b-49dcf0c015ce",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Step Large"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d4a78e19-21a0-9892-0dbf-1eefc9a8de83",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Step Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a7a45770-c713-2362-cd4d-be75f35f8c49"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "363ae77e-d188-dcd3-8874-1c5117ed6202"
+    },
+    "dependencies": [
+        "a7a45770-c713-2362-cd4d-be75f35f8c49"
+    ]
+}

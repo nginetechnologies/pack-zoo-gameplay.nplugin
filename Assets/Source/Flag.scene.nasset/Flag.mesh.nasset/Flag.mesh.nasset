@@ -5,14 +5,15 @@
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "dependencies": [
-        "9e2bdf4b-6d8c-a76a-e37a-3431d00325cf",
         "23753abf-e35e-ee65-8c5f-cbbf8dcca4dd",
-        "02acd0a4-a7c2-2c1a-dad6-a29f1acf6838",
+        "9e2bdf4b-6d8c-a76a-e37a-3431d00325cf",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
         "fb02e756-482c-ed67-fcc7-bb7d9b75cf5f",
-        "83eb72e3-4b00-a36f-e7c6-b123f27fdff2",
+        "02acd0a4-a7c2-2c1a-dad6-a29f1acf6838",
         "542b9838-0569-134e-3c65-a715d200200a",
-        "9654aa45-2362-0575-d221-5c6dfc6349d4",
-        "38421120-a50a-4281-d861-2cd1871b1ba7"
+        "83eb72e3-4b00-a36f-e7c6-b123f27fdff2",
+        "38421120-a50a-4281-d861-2cd1871b1ba7",
+        "9654aa45-2362-0575-d221-5c6dfc6349d4"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "2d77dba4-50ca-2391-3d8e-9ffad61d803d",

@@ -1,0 +1,34 @@
+{
+    "guid": "4a5c3f88-a1d1-b5c5-bcda-4bfd99cbf47c",
+    "source": "../Coin.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d6205300-20cf-04b6-dcd2-376cb0def2ab",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Coin"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f514c9e-9445-249a-2eb8-8467f51b9550",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coin"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4a5c3f88-a1d1-b5c5-bcda-4bfd99cbf47c"
+    },
+    "dependencies": [
+        "f6a49598-13c0-32a7-ac2e-71bad80ed913"
+    ]
+}
